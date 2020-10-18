@@ -26,6 +26,6 @@ File to be submitted: `<roll-no1>-<roll-no2>-outlab7.tar.gz`
 │    ├── prep_stmt.py
 │    └── sql_injection.py
 └── univ_q2
-        ├── create_and_insert.py
-└── query.py
+      ├── create_and_insert.py
+      └── query.py
 ```
