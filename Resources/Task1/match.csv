@@ -1,0 +1,46 @@
+match_id,season_year,team1,team2,battedfirst,battedsecond,venue_name,city_name,country_name,toss_winner,match_winner,toss_name,win_type,man_of_match,win_margin
+598007,2013,3,7,1,1,"MA Chidambaram Stadium,Chepauk ",Chennai,India,7,7,bat,runs,221,9
+598009,2013,11,2,1,1,Rajiv Gandhi International Stadium Uppal,Hyderabad,India,2,11,bat,Tie,340,NULL
+598011,2013,7,6,1,1,Wankhede Stadium,Mumbai,India,7,7,bat,runs,88,44
+598013,2013,2,1,1,1,M Chinnaswamy Stadium,Bangalore,India,2,2,field,wickets,162,8
+598019,2013,5,4,1,1,Sawai Mansingh Stadium,Jaipur,India,5,5,field,wickets,310,6
+598021,2013,4,1,1,1,"Punjab Cricket Association Stadium,Mohali",Chandigarh,India,1,4,field,runs,120,4
+598023,2013,10,11,1,1,Subrata Roy Sahara Stadium,Pune,India,10,11,field,runs,136,11
+598027,2013,1,3,1,1,Eden Gardens,Kolkata,India,1,3,bat,wickets,35,4
+598029,2013,6,7,1,1,Feroz Shah Kotla,Delhi,India,7,6,bat,wickets,41,9
+598033,2013,4,6,1,1,Himachal Pradesh Cricket Association Stadium,Dharamsala,India,6,4,field,runs,320,7
+598037,2013,5,11,1,1,Sawai Mansingh Stadium,Jaipur,India,11,5,bat,wickets,310,8
+598039,2013,3,1,1,1,"MA Chidambaram Stadium,Chepauk ",Chennai,India,1,3,field,runs,19,14
+598041,2013,5,2,1,1,Sawai Mansingh Stadium,Jaipur,India,5,5,field,wickets,351,4
+598043,2013,10,3,1,1,Subrata Roy Sahara Stadium,Pune,India,3,3,bat,runs,20,37
+598047,2013,10,2,1,1,Subrata Roy Sahara Stadium,Pune,India,2,2,bat,runs,110,17
+598049,2013,11,6,1,1,"Rajiv Gandhi International Stadium,Uppal",Hyderabad,India,6,11,bat,wickets,362,6
+598051,2013,7,3,1,1,Wankhede Stadium,Mumbai,India,7,7,bat,runs,357,60
+598053,2013,2,11,1,1,M Chinnaswamy Stadium,Bangalore,India,11,2,bat,wickets,8,7
+598057,2013,4,5,1,1,"Punjab Cricket Association Stadium,Mohali",Chandigarh,India,5,5,field,wickets,309,8
+598061,2013,4,11,1,1,"Punjab Cricket Association Stadium,Mohali",Chandigarh,India,4,11,field,runs,17,30
+598063,2013,5,3,1,1,Sawai Mansingh Stadium,Jaipur,India,5,5,field,wickets,32,5
+598067,2013,3,6,1,1,"MA Chidambaram Stadium,Chepauk ",Chennai,India,3,3,bat,runs,20,33
+598069,2013,4,2,1,1,"Punjab Cricket Association Stadium,Mohali",Chandigarh,India,4,4,field,wickets,320,6
+598071,2013,4,7,1,1,Himachal Pradesh Cricket Association Stadium,Dharamsala,India,7,4,field,runs,321,50
+598077,2013,7,5,1,1,Eden Gardens,Kolkata,India,5,7,bat,wickets,50,4
+1082591,2017,11,2,1,1,Rajiv Gandhi International Stadium Uppal,Hyderabad,India,2,11,Field,runs,27,35
+1082593,2017,13,1,1,1,Saurashtra Cricket Association Stadium,Rajkot,India,1,1,Field,wickets,336,10
+1082597,2017,7,1,1,1,Wankhede Stadium,Mumbai,India,7,7,Field,wickets,431,4
+1082601,2017,1,4,1,1,Eden Gardens,Kolkata,India,1,1,Field,wickets,NULL,8
+1082603,2017,13,12,1,1,Saurashtra Cricket Association Stadium,Rajkot,India,13,13,Field,wickets,471,7
+1082607,2017,2,12,1,1,M Chinnaswamy Stadium,Bengaluru,India,2,12,Field,runs,476,27
+1082609,2017,11,4,1,1,Rajiv Gandhi International Stadium Uppal,Hyderabad,India,4,11,Field,runs,299,5
+1082611,2017,11,6,1,1,Rajiv Gandhi International Stadium Uppal,Hyderabad,India,11,11,Bat,runs,396,15
+1082617,2017,1,2,1,1,Eden Gardens,Kolkata,India,2,1,Field,runs,371,82
+1082619,2017,2,11,1,1,NULL,Bengaluru,India,NULL,NULL,NA,NA,NULL,0
+1082621,2017,2,13,1,1,M Chinnaswamy Stadium,Bengaluru,India,13,13,Field,wickets,471,7
+1082623,2017,4,11,1,1,Punjab Cricket Association IS Bindra Stadium Mohali,Mohali,India,4,11,Field,runs,489,26
+1082629,2017,12,13,1,1,Maharashtra Cricket Association Stadium,Pune,India,12,12,Field,wickets,476,5
+1082631,2017,1,12,1,1,Eden Gardens,Kolkata,India,12,12,Field,wickets,488,4
+1082633,2017,2,4,1,1,M Chinnaswamy Stadium,Bengaluru,India,2,4,Field,runs,367,19
+1082637,2017,4,13,1,1,Punjab Cricket Association IS Bindra Stadium Mohali,Mohali,India,13,13,Field,wickets,147,6
+1082639,2017,4,1,1,1,Punjab Cricket Association IS Bindra Stadium Mohali,Mohali,India,1,4,Field,runs,364,14
+1082643,2017,13,11,1,1,Green Park,Kanpur,India,11,11,Field,wickets,486,8
+1082647,2017,7,12,1,1,Wankhede Stadium,Mumbai,India,7,12,Field,runs,NULL,20
+1082649,2017,7,1,1,1,M Chinnaswamy Stadium,Bengaluru,India,7,7,Field,wickets,166,6
