@@ -7,3 +7,16 @@ https://stackoverflow.com/questions/13934994/sqlite-foreign-key-examples
 https://stackoverflow.com/questions/734689/sqlite-primary-key-on-multiple-columns
 
 https://www.kite.com/python/answers/how-to-insert-the-contents-of-a-csv-file-into-an-sqlite3-database-in-python
+
+https://stackoverflow.com/questions/29582736/python3-is-there-a-way-to-iterate-row-by-row-over-a-very-large-sqlite-table-wi
+
+https://stackoverflow.com/questions/51306922/sqlite3-fetch-multiple-columns-in-one-select-statement-python
+
+https://www.sqlitetutorial.net/sqlite-sum/
+
+https://stackoverflow.com/questions/23394081/sqlite3-where-clause-in-python
+
+https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value
+
+https://www.techonthenet.com/sqlite/is_not_null.php
+
