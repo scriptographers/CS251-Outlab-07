@@ -5,3 +5,5 @@ https://www.geeksforgeeks.org/relation-schema-in-dbms/
 https://stackoverflow.com/questions/13934994/sqlite-foreign-key-examples
 
 https://stackoverflow.com/questions/734689/sqlite-primary-key-on-multiple-columns
+
+https://www.kite.com/python/answers/how-to-insert-the-contents-of-a-csv-file-into-an-sqlite3-database-in-python
