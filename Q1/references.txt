@@ -20,3 +20,8 @@ https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value
 
 https://www.techonthenet.com/sqlite/is_not_null.php
 
+https://stackoverflow.com/questions/2396073/sql-to-select-top-10-records
+
+https://www.w3schools.com/sql/sql_groupby.asp
+
+https://www.w3schools.com/sql/sql_top.asp
