@@ -25,3 +25,7 @@ https://stackoverflow.com/questions/2396073/sql-to-select-top-10-records
 https://www.w3schools.com/sql/sql_groupby.asp
 
 https://www.w3schools.com/sql/sql_top.asp
+
+https://stackoverflow.com/questions/31703970/sqlite-how-to-perform-count-with-a-where-condition
+
+https://www.sqlitetutorial.net/sqlite-count-function/
