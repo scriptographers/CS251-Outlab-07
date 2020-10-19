@@ -22,8 +22,9 @@ try:
             # Insert into table query
             ITQ = "INSERT INTO {} VALUES {}".format(TABLE_NAMES[i], qmarks)
             cur.executemany(ITQ, rows)
+            conn.commit()
 
-    # All tables created
+    # All tables filled
     cur.close()
 
 # Error handling
