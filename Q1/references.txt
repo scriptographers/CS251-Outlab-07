@@ -29,3 +29,7 @@ https://www.w3schools.com/sql/sql_top.asp
 https://stackoverflow.com/questions/31703970/sqlite-how-to-perform-count-with-a-where-condition
 
 https://www.sqlitetutorial.net/sqlite-count-function/
+
+https://dba.stackexchange.com/questions/23068/how-to-make-multiple-counts-in-one-query
+
+https://dba.stackexchange.com/questions/123664/is-else-0-implied-in-my-count-case-when-statement/123667
