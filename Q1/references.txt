@@ -25,3 +25,7 @@ https://stackoverflow.com/questions/2396073/sql-to-select-top-10-records
 https://www.w3schools.com/sql/sql_groupby.asp
 
 https://www.w3schools.com/sql/sql_top.asp
+
+https://dba.stackexchange.com/questions/23068/how-to-make-multiple-counts-in-one-query
+
+https://dba.stackexchange.com/questions/123664/is-else-0-implied-in-my-count-case-when-statement/123667
