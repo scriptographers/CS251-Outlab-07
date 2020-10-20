@@ -33,3 +33,9 @@ https://www.sqlitetutorial.net/sqlite-count-function/
 https://dba.stackexchange.com/questions/23068/how-to-make-multiple-counts-in-one-query
 
 https://dba.stackexchange.com/questions/123664/is-else-0-implied-in-my-count-case-when-statement/123667
+
+https://www.w3resource.com/sql/aggregate-functions/count-with-distinct.php
+
+https://www.techonthenet.com/sqlite/tables/create_table_as.php
+
+https://stackoverflow.com/questions/15513854/sqlite3-warning-you-can-only-execute-one-statement-at-a-time
