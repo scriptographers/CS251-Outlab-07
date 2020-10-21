@@ -14,20 +14,20 @@ for x in crt.split(';') + ins.split(';'):
     except sql.Error as error:
         continue
 
-xx = ['prereq',
-      'time_slot',
-      'advisor',
-      'takes',
-      'student',
-      'teaches',
-      'section',
-      'instructor',
-      'course',
-      'department',
-      'classroom']
-for i in xx:
-    cur.execute("SELECT * FROM {}".format(i))
-    print(cur.fetchall())
+# xx = ['prereq',
+#       'time_slot',
+#       'advisor',
+#       'takes',
+#       'student',
+#       'teaches',
+#       'section',
+#       'instructor',
+#       'course',
+#       'department',
+#       'classroom']
+# for i in xx:
+#     cur.execute("SELECT * FROM {}".format(i))
+#     print(cur.fetchall())
 
 if (conn):
     conn.close()
