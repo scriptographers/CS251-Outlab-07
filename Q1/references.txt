@@ -39,3 +39,9 @@ https://www.w3resource.com/sql/aggregate-functions/count-with-distinct.php
 https://www.techonthenet.com/sqlite/tables/create_table_as.php
 
 https://stackoverflow.com/questions/15513854/sqlite3-warning-you-can-only-execute-one-statement-at-a-time
+
+https://www.sqlitetutorial.net/sqlite-update/
+
+https://stackoverflow.com/questions/17702902/in-sqlite3-copy-a-column-from-one-table-to-another-table
+
+https://www.kite.com/python/docs/sqlite3.Cursor.executemany
