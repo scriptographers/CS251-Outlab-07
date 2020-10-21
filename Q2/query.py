@@ -12,12 +12,14 @@ conn = sql.connect(DB_NAME)
 cur = conn.cursor()
 
 if (op == "0"):
-    cur.executescript("SELECT * FROM {} WHERE {} = '{}'".format(table_name, column_name, query))
+    cur.execute("SELECT * FROM {} WHERE {} = '".format(table_name, column_name) + query + "'")
     conn.commit()
 else:
     cur.execute("SELECT * FROM {} WHERE {} = (?)".format(table_name, column_name), (query,))
     conn.commit()
-print(cur.fetchall())
+res = cur.fetchall()
+for row in res:
+    print(','.join(str(x) for x in row))
 
 # xx = ['prereq',
 #       'time_slot',
