@@ -1,3 +1,9 @@
 https://realpython.com/prevent-python-sql-injection/
 
 https://bobby-tables.com/python.html
+
+https://www.btelligent.com/en/blog/best-practice-for-sql-statements-in-python/
+
+https://stackoverflow.com/questions/15513854/sqlite3-warning-you-can-only-execute-one-statement-at-a-time
+
+https://docs.python.org/3/library/sqlite3.html
