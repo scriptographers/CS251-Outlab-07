@@ -1,7 +1,9 @@
 import sqlite3 as sql
 
-crt = open('University Schema', 'r').read()
-ins = open('smallRelationsInsertFile.sql', 'r').read()
+with open('University Schema', 'r') as file:
+    crt = file.read()
+with open('smallRelationsInsertFile.sql', 'r') as file:
+    ins = file.read()
 DB_NAME = "univ.db"
 
 conn = sql.connect(DB_NAME)
@@ -14,20 +16,7 @@ for x in crt.split(';') + ins.split(';'):
     except sql.Error as error:
         continue
 
-# xx = ['prereq',
-#       'time_slot',
-#       'advisor',
-#       'takes',
-#       'student',
-#       'teaches',
-#       'section',
-#       'instructor',
-#       'course',
-#       'department',
-#       'classroom']
-# for i in xx:
-#     cur.execute("SELECT * FROM {}".format(i))
-#     print(cur.fetchall())
+cur.close()
 
 if (conn):
     conn.close()

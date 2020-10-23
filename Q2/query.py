@@ -21,20 +21,7 @@ res = cur.fetchall()
 for row in res:
     print(','.join(str(x) for x in row))
 
-# xx = ['prereq',
-#       'time_slot',
-#       'advisor',
-#       'takes',
-#       'student',
-#       'teaches',
-#       'section',
-#       'instructor',
-#       'course',
-#       'department',
-#       'classroom']
-# for i in xx:
-#     cur.execute("SELECT COUNT(*) FROM {}".format(i))
-#     print(i, cur.fetchall()[0][0])
+cur.close()
 
 if (conn):
     conn.close()
