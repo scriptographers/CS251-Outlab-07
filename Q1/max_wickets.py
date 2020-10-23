@@ -4,11 +4,11 @@ DB_NAME = "ipl.db"
 
 try:
     conn = sq.connect(DB_NAME)
-    cur  = conn.cursor()
+    cur = conn.cursor()
 
     PURPLE_CAP = """
         SELECT bowler, player_name, COUNT(out_type) AS n_wickets
-        FROM BALL_BY_BALL 
+        FROM BALL_BY_BALL
         INNER JOIN PLAYER ON BALL_BY_BALL.bowler = PLAYER.player_id
         WHERE out_type != 'Not Applicable'
         GROUP BY bowler

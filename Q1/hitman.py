@@ -21,7 +21,7 @@ try:
 
     for r in results:
         if r[3] != 0:
-            print("{},{},{},{},{}".format(r[0], r[1], r[2], r[3], r[2]/r[3]))  # "Hack"
+            print("{},{},{},{},{}".format(r[0], r[1], r[2], r[3], r[2] / r[3]))  # "Hack"
 
     cur.close()
 

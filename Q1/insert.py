@@ -2,19 +2,19 @@ import csv
 import sqlite3 as sq
 
 # CONSTANTS (Hardcoded)
-DB_NAME     = "ipl.db"
-BASE_PATH   = "" # New PS change mentions this
+DB_NAME = "ipl.db"
+BASE_PATH = ""  # New PS change mentions this
 TABLE_NAMES = ["TEAM", "MATCH", "PLAYER", "PLAYER_MATCH", "BALL_BY_BALL"]
-CSV_PATHS   = [(BASE_PATH + tn.lower() + ".csv") for tn in TABLE_NAMES]
-N_TABLES    = len(TABLE_NAMES)
+CSV_PATHS = [(BASE_PATH + tn.lower() + ".csv") for tn in TABLE_NAMES]
+N_TABLES = len(TABLE_NAMES)
 
 try:
     conn = sq.connect(DB_NAME)
-    cur  = conn.cursor()
+    cur = conn.cursor()
 
     for i in range(N_TABLES):
         with open(CSV_PATHS[i], 'r') as f:
-            rows   = csv.reader(f)
+            rows = csv.reader(f)
             header = next(rows)
             n_cols = len(header)
             qmarks = ','.join(["?" for _ in range(n_cols)])

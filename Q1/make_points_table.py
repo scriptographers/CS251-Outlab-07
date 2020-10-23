@@ -4,16 +4,16 @@ DB_NAME = "ipl.db"
 
 try:
     conn = sq.connect(DB_NAME)
-    cur  = conn.cursor()
+    cur = conn.cursor()
 
     DELETE = "DROP TABLE IF EXISTS POINTS_TABLE;"
     cur.execute(DELETE)
     conn.commit()
 
     CREATE = """
-        CREATE TABLE IF NOT EXISTS POINTS_TABLE 
+        CREATE TABLE IF NOT EXISTS POINTS_TABLE
         (
-            team_id INTEGER PRIMARY KEY, 
+            team_id INTEGER PRIMARY KEY,
             team_name TEXT,
             points INTEGER DEFAULT 0,
             nrr DECIMAL DEFAULT 0
@@ -26,15 +26,14 @@ try:
     cur.execute(GET_TEAMS)
     teams = cur.fetchall()
 
-    TEAM_POINTS = {team[0]:0 for team in teams}
-    TEAM_NRR = {team[0]:0 for team in teams}
+    TEAM_POINTS = {team[0]: 0 for team in teams}
+    TEAM_NRR = {team[0]: 0.0 for team in teams}
 
     GET_DATA = "SELECT * FROM MATCH"
     cur.execute(GET_DATA)
     rows = cur.fetchall()
 
     for row in rows:
-
         team1 = int(row[2])
         team2 = int(row[3])
         winner = row[9]
@@ -57,9 +56,9 @@ try:
         if margin != "NULL":
             margin = int(margin)
             if win_type == "runs":
-                nrr = margin/20
+                nrr = margin / 20
             elif win_type == "wickets":
-                nrr = margin/10
+                nrr = margin / 10
             else:
                 nrr = 0
 
@@ -72,7 +71,7 @@ try:
             TEAM_NRR[team2] += nrr
 
     DATA = []
-    for team in teams: 
+    for team in teams:
         DATA.append((team[0], team[1], TEAM_POINTS[team[0]], TEAM_NRR[team[0]]))
     DATA = sorted(DATA, key=lambda val: (val[2], val[3]), reverse=True)
 
@@ -81,7 +80,7 @@ try:
     conn.commit()
 
     for i in range(len(DATA)):
-        print("{},{},{},{}".format(i+1, DATA[i][1], DATA[i][2], DATA[i][3]))
+        print("{},{},{},{}".format(i + 1, DATA[i][1], DATA[i][2], DATA[i][3]))
 
     cur.close()
 

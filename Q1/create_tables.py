@@ -4,11 +4,11 @@ DB_NAME = "ipl.db"
 
 try:
     conn = sq.connect(DB_NAME)
-    cur  = conn.cursor()
+    cur = conn.cursor()
 
     # (a) Query for creating the TEAM table
     CTQ = """
-    CREATE TABLE IF NOT EXISTS TEAM 
+    CREATE TABLE IF NOT EXISTS TEAM
     (
         team_id INTEGER PRIMARY KEY,
         team_name TEXT
@@ -17,10 +17,9 @@ try:
     cur.execute(CTQ)
     conn.commit()
 
-
     # (b) Query for creating the PLAYER table
     CPQ = """
-    CREATE TABLE IF NOT EXISTS PLAYER 
+    CREATE TABLE IF NOT EXISTS PLAYER
     (
         player_id INTEGER PRIMARY KEY,
         player_name TEXT,
@@ -33,10 +32,9 @@ try:
     cur.execute(CPQ)
     conn.commit()
 
-
     # (c) Query for creating the MATCH table
     CMQ = """
-    CREATE TABLE IF NOT EXISTS MATCH 
+    CREATE TABLE IF NOT EXISTS MATCH
     (
         match_id INTEGER PRIMARY KEY,
         season_year INTEGER,
@@ -63,10 +61,9 @@ try:
     cur.execute(CMQ)
     conn.commit()
 
-
     # (d) Query for creating the PLAYER_MATCH table
     CPMQ = """
-    CREATE TABLE IF NOT EXISTS PLAYER_MATCH 
+    CREATE TABLE IF NOT EXISTS PLAYER_MATCH
     (
         playermatch_key BIGINT PRIMARY KEY,
         match_id INTEGER,
@@ -84,10 +81,9 @@ try:
     cur.execute(CPMQ)
     conn.commit()
 
-
     # (e) Query for creating the BALL_BY_BALL table
     CBBQ = """
-    CREATE TABLE IF NOT EXISTS BALL_BY_BALL 
+    CREATE TABLE IF NOT EXISTS BALL_BY_BALL
     (
         match_id INTEGER,
         innings_no INTEGER,
@@ -123,6 +119,3 @@ except sq.Error as error:
 finally:
     if (conn):
         conn.close()
-
-
-# DOUBTS: NOT NULL? AUTOINCREMENT?

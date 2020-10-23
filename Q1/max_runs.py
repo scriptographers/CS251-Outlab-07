@@ -4,7 +4,7 @@ DB_NAME = "ipl.db"
 
 try:
     conn = sq.connect(DB_NAME)
-    cur  = conn.cursor()
+    cur = conn.cursor()
 
     ORANGE_CAP = """
         SELECT striker, player_name, SUM(runs_scored) as total_runs

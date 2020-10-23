@@ -1,15 +1,13 @@
-import csv
 import sqlite3 as sq
 
 DB_NAME = "ipl.db"
 
 try:
     conn = sq.connect(DB_NAME)
-    cur  = conn.cursor()
+    cur = conn.cursor()
 
     AVG = """
-        SELECT venue_name, 
-        SUM(runs_scored) AS total_runs,
+        SELECT venue_name, SUM(runs_scored + extra_runs) AS total_runs,
         COUNT(DISTINCT MATCH.match_id) AS n_matches
         FROM BALL_BY_BALL
         INNER JOIN MATCH ON BALL_BY_BALL.match_id =MATCH.match_id
@@ -21,7 +19,7 @@ try:
 
     for r in results:
         if r[2] != 0:
-            print("{},{}".format(r[0], r[1]/r[2])) # "Hack"
+            print("{},{}".format(r[0], r[1] / r[2]))  # "Hack"
 
     cur.close()
 
