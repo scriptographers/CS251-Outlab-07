@@ -1,0 +1,969 @@
+playermatch_key,match_id,player_id,batting_hand,bowling_skill,role_desc,team_id
+21419,598077,88,Right-hand bat,N/A,Keeper,7
+19866,598007,3,Right-hand bat,Right-arm medium,Captain,7
+19867,598007,50,Right-hand bat,Right-arm offbreak,Player,7
+19868,598007,57,Right-hand bat,Right-arm offbreak,Player,7
+19869,598007,88,Right-hand bat,N/A,Keeper,7
+19870,598007,126,Right-hand bat,Right-arm medium-fast,Player,7
+19871,598007,131,Left-hand bat,Slow left-arm orthodox,Player,7
+19872,598007,133,Right-hand bat,Right-arm offbreak,Player,7
+19873,598007,147,Right-hand bat,Right-arm medium,Player,7
+19874,598007,208,Right-hand bat,Right-arm offbreak,Player,7
+19875,598007,221,Right-hand bat,Right-arm medium-fast,Player,7
+19876,598007,357,Left-hand bat,Left-arm fast,Player,7
+19877,598007,19,Left-hand bat,Right-arm medium,Player,3
+19878,598007,20,Right-hand bat,Right-arm medium,CaptainKeeper,3
+19879,598007,21,Left-hand bat,Right-arm offbreak,Player,3
+19880,598007,23,Right-hand bat,Right-arm offbreak,Player,3
+19881,598007,35,Left-hand bat,Slow left-arm orthodox,Player,3
+19882,598007,71,Right-hand bat,Right-arm medium-fast,Player,3
+19883,598007,185,Right-hand bat,Right-arm offbreak,Player,3
+19884,598007,201,Right-hand bat,Right-arm offbreak,Player,3
+19885,598007,223,Right-hand bat,Left-arm fast,Player,3
+19886,598007,343,Right-hand bat,Right-arm fast-medium,Player,3
+19887,598007,344,Right-hand bat,Right-arm medium,Player,3
+19910,598009,8,Right-hand bat,Right-arm medium,Captain,2
+19911,598009,81,Right-hand bat,Right-arm medium,Player,2
+19912,598009,83,Left-hand bat,Slow left-arm orthodox,Player,2
+19913,598009,121,Right-hand bat,Right-arm offbreak,Player,2
+19914,598009,135,Right-hand bat,Right-arm offbreak,Player,2
+19915,598009,162,Left-hand bat,Right-arm offbreak,Player,2
+19916,598009,163,Right-hand bat,Right-arm fast-medium,Player,2
+19917,598009,239,Right-hand bat,Legbreak googly,Keeper,2
+19918,598009,260,Right-hand bat,N/A,Player,2
+19919,598009,339,Right-hand bat,Right-arm offbreak,Player,2
+19920,598009,346,Right-hand bat,Left-arm medium,Player,2
+19921,598009,10,Right-hand bat,Legbreak googly,Player,11
+19922,598009,17,Left-hand bat,N/A,Keeper,11
+19923,598009,26,Left-hand bat,Right-arm offbreak,Captain,11
+19924,598009,84,Right-hand bat,Right-arm fast-medium,Player,11
+19925,598009,94,Right-hand bat,Right-arm fast,Player,11
+19926,598009,136,Right-hand bat,Legbreak,Player,11
+19927,598009,280,Left-hand bat,Right-arm medium-fast,Player,11
+19928,598009,314,Left-hand bat,Slow left-arm orthodox,Player,11
+19929,598009,325,Right-hand bat,Right-arm medium,Player,11
+19930,598009,331,Right-hand bat,Legbreak,Player,11
+19931,598009,340,Right-hand bat,Right-arm offbreak,Player,11
+19954,598011,3,Right-hand bat,Right-arm medium,Captain,7
+19955,598011,50,Right-hand bat,Right-arm offbreak,Player,7
+19956,598011,57,Right-hand bat,Right-arm offbreak,Player,7
+19957,598011,88,Right-hand bat,N/A,Keeper,7
+19958,598011,131,Left-hand bat,Slow left-arm orthodox,Player,7
+19959,598011,133,Right-hand bat,Right-arm offbreak,Player,7
+19960,598011,194,Right-hand bat,Right-arm fast,Player,7
+19961,598011,208,Right-hand bat,Right-arm offbreak,Player,7
+19962,598011,221,Right-hand bat,Right-arm medium-fast,Player,7
+19963,598011,356,Right-hand bat,Right-arm medium-fast,Player,7
+19964,598011,357,Left-hand bat,Left-arm fast,Player,7
+19965,598011,29,Left-hand bat,Left-arm medium-fast,Player,6
+19966,598011,64,Right-hand bat,Right-arm medium,Captain,6
+19967,598011,73,Right-hand bat,Left-arm medium-fast,Player,6
+19968,598011,187,Left-hand bat,Legbreak,Player,6
+19969,598011,190,Left-hand bat,Right-arm fast,Player,6
+19970,598011,232,Right-hand bat,Right-arm fast-medium,Player,6
+19971,598011,237,Right-hand bat,Right-arm offbreak,Keeper,6
+19972,598011,262,Right-hand bat,Right-arm offbreak,Player,6
+19973,598011,293,Right-hand bat,Slow left-arm orthodox,Player,6
+19974,598011,338,Right-hand bat,Right-arm offbreak,Player,6
+19975,598011,348,Left-hand bat,Legbreak,Player,6
+19998,598013,8,Right-hand bat,Right-arm medium,Captain,2
+19999,598013,61,Right-hand bat,Left-arm fast-medium,Player,2
+20000,598013,81,Right-hand bat,Right-arm medium,Player,2
+20001,598013,110,Right-hand bat,Right-arm medium,Player,2
+20002,598013,121,Right-hand bat,Right-arm offbreak,Player,2
+20003,598013,162,Left-hand bat,Right-arm offbreak,Player,2
+20004,598013,163,Right-hand bat,Right-arm fast-medium,Player,2
+20005,598013,239,Right-hand bat,Legbreak googly,Keeper,2
+20006,598013,260,Right-hand bat,N/A,Player,2
+20007,598013,346,Right-hand bat,Left-arm medium,Player,2
+20008,598013,354,Right-hand bat,N/A,Player,2
+20009,598013,9,Right-hand bat,Right-arm fast-medium,Player,1
+20010,598013,31,Right-hand bat,Right-arm offbreak,Player,1
+20011,598013,40,Left-hand bat,Legbreak,Captain,1
+20012,598013,87,Right-hand bat,Legbreak googly,Player,1
+20013,598013,89,Right-hand bat,Right-arm medium-fast,Player,1
+20014,598013,116,Right-hand bat,Left-arm medium,Player,1
+20015,598013,151,Right-hand bat,Right-arm medium-fast,Player,1
+20016,598013,210,Left-hand bat,Right-arm medium-fast,Player,1
+20017,598013,214,Right-hand bat,N/A,Keeper,1
+20018,598013,216,Left-hand bat,Right-arm medium,Player,1
+20019,598013,315,Left-hand bat,Right-arm offbreak,Player,1
+20130,598019,4,Right-hand bat,Right-arm offbreak,Player,4
+20131,598019,14,Right-hand bat,Right-arm medium,Player,4
+20132,598019,53,Left-hand bat,Right-arm offbreak,CaptainKeeper,4
+20133,598019,67,Left-hand bat,Legbreak,Player,4
+20134,598019,188,Right-hand bat,Right-arm fast,Player,4
+20135,598019,209,Right-hand bat,Right-arm medium,Player,4
+20136,598019,236,Right-hand bat,Right-arm medium,Player,4
+20137,598019,321,Right-hand bat,Right-arm fast-medium,Player,4
+20138,598019,329,Right-hand bat,Right-arm offbreak,Player,4
+20139,598019,333,Right-hand bat,Right-arm medium,Player,4
+20140,598019,345,Right-hand bat,Right-arm medium,Player,4
+20141,598019,6,Right-hand bat,Right-arm offbreak,Captain,5
+20142,598019,32,Right-hand bat,Right-arm fast-medium,Player,5
+20143,598019,39,Right-hand bat,Right-arm medium,Player,5
+20144,598019,77,Right-hand bat,Right-arm fast-medium,Player,5
+20145,598019,85,Right-hand bat,Right-arm medium,Player,5
+20146,598019,104,Right-hand bat,Right-arm offbreak,Player,5
+20147,598019,255,Right-hand bat,Right-arm medium,Player,5
+20148,598019,309,Right-hand bat,Right-arm medium,Player,5
+20149,598019,310,Right-hand bat,Left-arm fast-medium,Player,5
+20150,598019,335,Right-hand bat,Right-arm offbreak,Player,5
+20151,598019,351,Right-hand bat,N/A,Keeper,5
+20174,598021,4,Right-hand bat,Right-arm offbreak,Player,4
+20175,598021,14,Right-hand bat,Right-arm medium,Player,4
+20176,598021,53,Left-hand bat,Right-arm offbreak,CaptainKeeper,4
+20177,598021,67,Left-hand bat,Legbreak,Player,4
+20178,598021,120,Right-hand bat,Right-arm medium,Player,4
+20179,598021,236,Right-hand bat,Right-arm medium,Player,4
+20180,598021,320,Left-hand bat,Right-arm offbreak,Player,4
+20181,598021,321,Right-hand bat,Right-arm fast-medium,Player,4
+20182,598021,329,Right-hand bat,Right-arm offbreak,Player,4
+20183,598021,333,Right-hand bat,Right-arm medium,Player,4
+20184,598021,345,Right-hand bat,Right-arm medium,Player,4
+20185,598021,9,Right-hand bat,Right-arm fast-medium,Player,1
+20186,598021,31,Right-hand bat,Right-arm offbreak,Player,1
+20187,598021,40,Left-hand bat,Legbreak,Captain,1
+20188,598021,87,Right-hand bat,Legbreak googly,Player,1
+20189,598021,89,Right-hand bat,Right-arm medium-fast,Player,1
+20190,598021,95,Right-hand bat,Legbreak googly,Player,1
+20191,598021,151,Right-hand bat,Right-arm medium-fast,Player,1
+20192,598021,214,Right-hand bat,N/A,Keeper,1
+20193,598021,216,Left-hand bat,Right-arm medium,Player,1
+20194,598021,315,Left-hand bat,Right-arm offbreak,Player,1
+20195,598021,352,Right-hand bat,Right-arm offbreak,Player,1
+20218,598023,10,Right-hand bat,Legbreak googly,Captain,11
+20219,598023,17,Left-hand bat,N/A,Keeper,11
+20220,598023,84,Right-hand bat,Right-arm fast-medium,Player,11
+20221,598023,94,Right-hand bat,Right-arm fast,Player,11
+20222,598023,136,Right-hand bat,Legbreak,Player,11
+20223,598023,166,Left-hand bat,Legbreak googly,Player,11
+20224,598023,280,Left-hand bat,Right-arm medium-fast,Player,11
+20225,598023,325,Right-hand bat,Right-arm medium,Player,11
+20226,598023,327,Right-hand bat,N/A,Player,11
+20227,598023,340,Right-hand bat,Right-arm offbreak,Player,11
+20228,598023,355,Left-hand bat,N/A,Player,11
+20229,598023,46,Right-hand bat,Right-arm medium,Keeper,10
+20230,598023,48,Left-hand bat,Right-arm medium,Player,10
+20231,598023,96,Right-hand bat,Right-arm medium,Player,10
+20232,598023,106,Right-hand bat,Right-arm medium-fast,Player,10
+20233,598023,178,Right-hand bat,Right-arm offbreak,Player,10
+20234,598023,191,Right-hand bat,Right-arm fast-medium,Captain,10
+20235,598023,235,Right-hand bat,Right-arm offbreak,Player,10
+20236,598023,253,Right-hand bat,Right-arm medium,Player,10
+20237,598023,254,Right-hand bat,Slow left-arm orthodox,Player,10
+20238,598023,299,Right-hand bat,Right-arm medium,Player,10
+20239,598023,306,Right-hand bat,Legbreak googly,Player,10
+20306,598027,9,Right-hand bat,Right-arm fast-medium,Player,1
+20307,598027,31,Right-hand bat,Right-arm offbreak,Player,1
+20308,598027,40,Left-hand bat,Legbreak,Captain,1
+20309,598027,63,Right-hand bat,Right-arm medium,Player,1
+20310,598027,87,Right-hand bat,Legbreak googly,Player,1
+20311,598027,89,Right-hand bat,Right-arm medium-fast,Player,1
+20312,598027,95,Right-hand bat,Legbreak googly,Keeper,1
+20313,598027,151,Right-hand bat,Right-arm medium-fast,Player,1
+20314,598027,216,Left-hand bat,Right-arm medium,Player,1
+20315,598027,315,Left-hand bat,Right-arm offbreak,Player,1
+20316,598027,352,Right-hand bat,Right-arm offbreak,Player,1
+20317,598027,19,Left-hand bat,Right-arm medium,Player,3
+20318,598027,20,Right-hand bat,Right-arm medium,CaptainKeeper,3
+20319,598027,21,Left-hand bat,Right-arm offbreak,Player,3
+20320,598027,23,Right-hand bat,Right-arm offbreak,Player,3
+20321,598027,35,Left-hand bat,Slow left-arm orthodox,Player,3
+20322,598027,71,Right-hand bat,Right-arm medium-fast,Player,3
+20323,598027,109,Left-hand bat,Right-arm medium-fast,Player,3
+20324,598027,185,Right-hand bat,Right-arm offbreak,Player,3
+20325,598027,201,Right-hand bat,Right-arm offbreak,Player,3
+20326,598027,350,Right-hand bat,Right-arm fast-medium,Player,3
+20327,598027,364,Right-hand bat,Right-arm medium,Player,3
+20350,598029,3,Right-hand bat,Right-arm medium,Captain,7
+20351,598029,50,Right-hand bat,Right-arm offbreak,Player,7
+20352,598029,57,Right-hand bat,Right-arm offbreak,Player,7
+20353,598029,88,Right-hand bat,N/A,Keeper,7
+20354,598029,126,Right-hand bat,Right-arm medium-fast,Player,7
+20355,598029,133,Right-hand bat,Right-arm offbreak,Player,7
+20356,598029,147,Right-hand bat,Right-arm medium,Player,7
+20357,598029,194,Right-hand bat,Right-arm fast,Player,7
+20358,598029,208,Right-hand bat,Right-arm offbreak,Player,7
+20359,598029,221,Right-hand bat,Right-arm medium-fast,Player,7
+20360,598029,375,Right-hand bat,Right-arm medium,Player,7
+20361,598029,29,Left-hand bat,Left-arm medium-fast,Player,6
+20362,598029,41,Right-hand bat,Right-arm offbreak,Player,6
+20363,598029,54,Right-hand bat,Right-arm offbreak,Player,6
+20364,598029,64,Right-hand bat,Right-arm medium,Captain,6
+20365,598029,82,Right-hand bat,Right-arm fast,Player,6
+20366,598029,177,Right-hand bat,Slow left-arm orthodox,Player,6
+20367,598029,187,Left-hand bat,Legbreak,Player,6
+20368,598029,232,Right-hand bat,Right-arm fast-medium,Player,6
+20369,598029,237,Right-hand bat,Right-arm offbreak,Keeper,6
+20370,598029,293,Right-hand bat,Slow left-arm orthodox,Player,6
+20371,598029,334,Right-hand bat,Right-arm fast,Player,6
+20438,598033,14,Right-hand bat,Right-arm medium,Player,4
+20439,598033,53,Left-hand bat,Right-arm offbreak,CaptainKeeper,4
+20440,598033,67,Left-hand bat,Legbreak,Player,4
+20441,598033,100,Left-hand bat,Slow left-arm orthodox,Player,4
+20442,598033,209,Right-hand bat,Right-arm medium,Player,4
+20443,598033,236,Right-hand bat,Right-arm medium,Player,4
+20444,598033,320,Left-hand bat,Right-arm offbreak,Player,4
+20445,598033,321,Right-hand bat,Right-arm fast-medium,Player,4
+20446,598033,333,Right-hand bat,Right-arm medium,Player,4
+20447,598033,345,Right-hand bat,Right-arm medium,Player,4
+20448,598033,367,Right-hand bat,Right-arm medium,Player,4
+20449,598033,29,Left-hand bat,Left-arm medium-fast,Player,6
+20450,598033,41,Right-hand bat,Right-arm offbreak,Player,6
+20451,598033,64,Right-hand bat,Right-arm medium,Captain,6
+20452,598033,73,Right-hand bat,Left-arm medium-fast,Player,6
+20453,598033,187,Left-hand bat,Legbreak,Player,6
+20454,598033,190,Left-hand bat,Right-arm fast,Player,6
+20455,598033,232,Right-hand bat,Right-arm fast-medium,Player,6
+20456,598033,262,Right-hand bat,Right-arm offbreak,Player,6
+20457,598033,353,Left-hand bat,N/A,Player,6
+20458,598033,360,Right-hand bat,N/A,Keeper,6
+20459,598033,368,Right-hand bat,Right-arm medium,Player,6
+20526,598037,6,Right-hand bat,Right-arm offbreak,Captain,5
+20527,598037,32,Right-hand bat,Right-arm fast-medium,Player,5
+20528,598037,39,Right-hand bat,Right-arm medium,Player,5
+20529,598037,85,Right-hand bat,Right-arm medium,Player,5
+20530,598037,104,Right-hand bat,Right-arm offbreak,Player,5
+20531,598037,255,Right-hand bat,Right-arm medium,Player,5
+20532,598037,277,Left-hand bat,N/A,Keeper,5
+20533,598037,309,Right-hand bat,Right-arm medium,Player,5
+20534,598037,310,Right-hand bat,Left-arm fast-medium,Player,5
+20535,598037,335,Right-hand bat,Right-arm offbreak,Player,5
+20536,598037,369,Left-hand bat,Right-arm offbreak,Player,5
+20537,598037,26,Left-hand bat,Right-arm offbreak,CaptainKeeper,11
+20538,598037,42,Left-hand bat,Right-arm offbreak,Player,11
+20539,598037,84,Right-hand bat,Right-arm fast-medium,Player,11
+20540,598037,94,Right-hand bat,Right-arm fast,Player,11
+20541,598037,136,Right-hand bat,Legbreak,Player,11
+20542,598037,166,Left-hand bat,Legbreak googly,Player,11
+20543,598037,280,Left-hand bat,Right-arm medium-fast,Player,11
+20544,598037,325,Right-hand bat,Right-arm medium,Player,11
+20545,598037,331,Right-hand bat,Legbreak,Player,11
+20546,598037,340,Right-hand bat,Right-arm offbreak,Player,11
+20547,598037,362,Right-hand bat,Right-arm medium-fast,Player,11
+20570,598039,2,Right-hand bat,Right-arm medium,Player,1
+20571,598039,9,Right-hand bat,Right-arm fast-medium,Player,1
+20572,598039,31,Right-hand bat,Right-arm offbreak,Player,1
+20573,598039,40,Left-hand bat,Legbreak,Captain,1
+20574,598039,89,Right-hand bat,Right-arm medium-fast,Player,1
+20575,598039,95,Right-hand bat,Legbreak googly,Player,1
+20576,598039,151,Right-hand bat,Right-arm medium-fast,Player,1
+20577,598039,214,Right-hand bat,N/A,Keeper,1
+20578,598039,216,Left-hand bat,Right-arm medium,Player,1
+20579,598039,315,Left-hand bat,Right-arm offbreak,Player,1
+20580,598039,347,Right-hand bat,Right-arm fast-medium,Player,1
+20581,598039,19,Left-hand bat,Right-arm medium,Player,3
+20582,598039,20,Right-hand bat,Right-arm medium,CaptainKeeper,3
+20583,598039,21,Left-hand bat,Right-arm offbreak,Player,3
+20584,598039,23,Right-hand bat,Right-arm offbreak,Player,3
+20585,598039,35,Left-hand bat,Slow left-arm orthodox,Player,3
+20586,598039,62,Right-hand bat,N/A,Player,3
+20587,598039,71,Right-hand bat,Right-arm medium-fast,Player,3
+20588,598039,201,Right-hand bat,Right-arm offbreak,Player,3
+20589,598039,223,Right-hand bat,Left-arm fast,Player,3
+20590,598039,350,Right-hand bat,Right-arm fast-medium,Player,3
+20591,598039,364,Right-hand bat,Right-arm medium,Player,3
+20614,598041,8,Right-hand bat,Right-arm medium,Captain,2
+20615,598041,61,Right-hand bat,Left-arm fast-medium,Player,2
+20616,598041,79,Left-hand bat,N/A,Player,2
+20617,598041,81,Right-hand bat,Right-arm medium,Player,2
+20618,598041,83,Left-hand bat,Slow left-arm orthodox,Player,2
+20619,598041,110,Right-hand bat,Right-arm medium,Keeper,2
+20620,598041,152,Left-hand bat,Legbreak googly,Player,2
+20621,598041,162,Left-hand bat,Right-arm offbreak,Player,2
+20622,598041,163,Right-hand bat,Right-arm fast-medium,Player,2
+20623,598041,346,Right-hand bat,Left-arm medium,Player,2
+20624,598041,349,Left-hand bat,Right-arm fast-medium,Player,2
+20625,598041,6,Right-hand bat,Right-arm offbreak,Captain,5
+20626,598041,32,Right-hand bat,Right-arm fast-medium,Player,5
+20627,598041,39,Right-hand bat,Right-arm medium,Player,5
+20628,598041,77,Right-hand bat,Right-arm fast-medium,Player,5
+20629,598041,85,Right-hand bat,Right-arm medium,Player,5
+20630,598041,104,Right-hand bat,Right-arm offbreak,Player,5
+20631,598041,204,Right-hand bat,Right-arm offbreak,Player,5
+20632,598041,255,Right-hand bat,Right-arm medium,Player,5
+20633,598041,310,Right-hand bat,Left-arm fast-medium,Player,5
+20634,598041,335,Right-hand bat,Right-arm offbreak,Player,5
+20635,598041,351,Right-hand bat,N/A,Keeper,5
+20658,598043,19,Left-hand bat,Right-arm medium,Player,3
+20659,598043,20,Right-hand bat,Right-arm medium,CaptainKeeper,3
+20660,598043,21,Left-hand bat,Right-arm offbreak,Player,3
+20661,598043,23,Right-hand bat,Right-arm offbreak,Player,3
+20662,598043,35,Left-hand bat,Slow left-arm orthodox,Player,3
+20663,598043,62,Right-hand bat,N/A,Player,3
+20664,598043,71,Right-hand bat,Right-arm medium-fast,Player,3
+20665,598043,109,Left-hand bat,Right-arm medium-fast,Player,3
+20666,598043,201,Right-hand bat,Right-arm offbreak,Player,3
+20667,598043,350,Right-hand bat,Right-arm fast-medium,Player,3
+20668,598043,364,Right-hand bat,Right-arm medium,Player,3
+20669,598043,27,Left-hand bat,Slow left-arm orthodox,Player,10
+20670,598043,46,Right-hand bat,Right-arm medium,Keeper,10
+20671,598043,48,Left-hand bat,Right-arm medium,Player,10
+20672,598043,106,Right-hand bat,Right-arm medium-fast,Player,10
+20673,598043,178,Right-hand bat,Right-arm offbreak,Player,10
+20674,598043,235,Right-hand bat,Right-arm offbreak,Player,10
+20675,598043,254,Right-hand bat,Slow left-arm orthodox,Captain,10
+20676,598043,299,Right-hand bat,Right-arm medium,Player,10
+20677,598043,306,Right-hand bat,Legbreak googly,Player,10
+20678,598043,358,Right-hand bat,Right-arm medium-fast,Player,10
+20679,598043,363,Right-hand bat,Right-arm fast-medium,Player,10
+20746,598047,8,Right-hand bat,Right-arm medium,Captain,2
+20747,598047,61,Right-hand bat,Left-arm fast-medium,Player,2
+20748,598047,79,Left-hand bat,N/A,Player,2
+20749,598047,81,Right-hand bat,Right-arm medium,Player,2
+20750,598047,83,Left-hand bat,Slow left-arm orthodox,Player,2
+20751,598047,110,Right-hand bat,Right-arm medium,Player,2
+20752,598047,121,Right-hand bat,Right-arm offbreak,Player,2
+20753,598047,162,Left-hand bat,Right-arm offbreak,Player,2
+20754,598047,163,Right-hand bat,Right-arm fast-medium,Player,2
+20755,598047,239,Right-hand bat,Legbreak googly,Keeper,2
+20756,598047,354,Right-hand bat,N/A,Player,2
+20757,598047,27,Left-hand bat,Slow left-arm orthodox,Player,10
+20758,598047,46,Right-hand bat,Right-arm medium,Keeper,10
+20759,598047,48,Left-hand bat,Right-arm medium,Player,10
+20760,598047,106,Right-hand bat,Right-arm medium-fast,Player,10
+20761,598047,174,Right-hand bat,Right-arm offbreak,Player,10
+20762,598047,178,Right-hand bat,Right-arm offbreak,Player,10
+20763,598047,191,Right-hand bat,Right-arm fast-medium,Player,10
+20764,598047,235,Right-hand bat,Right-arm offbreak,Player,10
+20765,598047,254,Right-hand bat,Slow left-arm orthodox,Captain,10
+20766,598047,299,Right-hand bat,Right-arm medium,Player,10
+20767,598047,306,Right-hand bat,Legbreak googly,Player,10
+20790,598049,29,Left-hand bat,Left-arm medium-fast,Player,6
+20791,598049,41,Right-hand bat,Right-arm offbreak,Player,6
+20792,598049,64,Right-hand bat,Right-arm medium,Captain,6
+20793,598049,73,Right-hand bat,Left-arm medium-fast,Player,6
+20794,598049,187,Left-hand bat,Legbreak,Player,6
+20795,598049,192,Right-hand bat,Right-arm offbreak,Player,6
+20796,598049,232,Right-hand bat,Right-arm fast-medium,Player,6
+20797,598049,237,Right-hand bat,Right-arm offbreak,Keeper,6
+20798,598049,262,Right-hand bat,Right-arm offbreak,Player,6
+20799,598049,293,Right-hand bat,Slow left-arm orthodox,Player,6
+20800,598049,348,Left-hand bat,Legbreak,Player,6
+20801,598049,17,Left-hand bat,N/A,Keeper,11
+20802,598049,26,Left-hand bat,Right-arm offbreak,Captain,11
+20803,598049,42,Left-hand bat,Right-arm offbreak,Player,11
+20804,598049,84,Right-hand bat,Right-arm fast-medium,Player,11
+20805,598049,94,Right-hand bat,Right-arm fast,Player,11
+20806,598049,136,Right-hand bat,Legbreak,Player,11
+20807,598049,166,Left-hand bat,Legbreak googly,Player,11
+20808,598049,280,Left-hand bat,Right-arm medium-fast,Player,11
+20809,598049,325,Right-hand bat,Right-arm medium,Player,11
+20810,598049,340,Right-hand bat,Right-arm offbreak,Player,11
+20811,598049,362,Right-hand bat,Right-arm medium-fast,Player,11
+20834,598051,50,Right-hand bat,Right-arm offbreak,Player,7
+20835,598051,57,Right-hand bat,Right-arm offbreak,Captain,7
+20836,598051,88,Right-hand bat,N/A,Keeper,7
+20837,598051,131,Left-hand bat,Slow left-arm orthodox,Player,7
+20838,598051,133,Right-hand bat,Right-arm offbreak,Player,7
+20839,598051,147,Right-hand bat,Right-arm medium,Player,7
+20840,598051,194,Right-hand bat,Right-arm fast,Player,7
+20841,598051,208,Right-hand bat,Right-arm offbreak,Player,7
+20842,598051,221,Right-hand bat,Right-arm medium-fast,Player,7
+20843,598051,357,Left-hand bat,Left-arm fast,Player,7
+20844,598051,453,Right-hand bat,Left-arm medium,Player,7
+20845,598051,19,Left-hand bat,Right-arm medium,Player,3
+20846,598051,20,Right-hand bat,Right-arm medium,CaptainKeeper,3
+20847,598051,21,Left-hand bat,Right-arm offbreak,Player,3
+20848,598051,23,Right-hand bat,Right-arm offbreak,Player,3
+20849,598051,35,Left-hand bat,Slow left-arm orthodox,Player,3
+20850,598051,71,Right-hand bat,Right-arm medium-fast,Player,3
+20851,598051,185,Right-hand bat,Right-arm offbreak,Player,3
+20852,598051,201,Right-hand bat,Right-arm offbreak,Player,3
+20853,598051,343,Right-hand bat,Right-arm fast-medium,Player,3
+20854,598051,350,Right-hand bat,Right-arm fast-medium,Player,3
+20855,598051,364,Right-hand bat,Right-arm medium,Player,3
+20878,598053,8,Right-hand bat,Right-arm medium,Captain,2
+20879,598053,61,Right-hand bat,Left-arm fast-medium,Player,2
+20880,598053,81,Right-hand bat,Right-arm medium,Player,2
+20881,598053,83,Left-hand bat,Slow left-arm orthodox,Player,2
+20882,598053,110,Right-hand bat,Right-arm medium,Player,2
+20883,598053,121,Right-hand bat,Right-arm offbreak,Player,2
+20884,598053,162,Left-hand bat,Right-arm offbreak,Player,2
+20885,598053,163,Right-hand bat,Right-arm fast-medium,Player,2
+20886,598053,239,Right-hand bat,Legbreak googly,Keeper,2
+20887,598053,260,Right-hand bat,N/A,Player,2
+20888,598053,346,Right-hand bat,Left-arm medium,Player,2
+20889,598053,10,Right-hand bat,Legbreak googly,Player,11
+20890,598053,17,Left-hand bat,N/A,Keeper,11
+20891,598053,26,Left-hand bat,Right-arm offbreak,Captain,11
+20892,598053,84,Right-hand bat,Right-arm fast-medium,Player,11
+20893,598053,94,Right-hand bat,Right-arm fast,Player,11
+20894,598053,136,Right-hand bat,Legbreak,Player,11
+20895,598053,280,Left-hand bat,Right-arm medium-fast,Player,11
+20896,598053,325,Right-hand bat,Right-arm medium,Player,11
+20897,598053,327,Right-hand bat,N/A,Player,11
+20898,598053,331,Right-hand bat,Legbreak,Player,11
+20899,598053,340,Right-hand bat,Right-arm offbreak,Player,11
+20966,598057,4,Right-hand bat,Right-arm offbreak,Player,4
+20967,598057,14,Right-hand bat,Right-arm medium,Player,4
+20968,598057,53,Left-hand bat,Right-arm offbreak,CaptainKeeper,4
+20969,598057,67,Left-hand bat,Legbreak,Player,4
+20970,598057,100,Left-hand bat,Slow left-arm orthodox,Player,4
+20971,598057,120,Right-hand bat,Right-arm medium,Player,4
+20972,598057,209,Right-hand bat,Right-arm medium,Player,4
+20973,598057,228,Left-hand bat,Slow left-arm orthodox,Player,4
+20974,598057,236,Right-hand bat,Right-arm medium,Player,4
+20975,598057,320,Left-hand bat,Right-arm offbreak,Player,4
+20976,598057,333,Right-hand bat,Right-arm medium,Player,4
+20977,598057,6,Right-hand bat,Right-arm offbreak,Captain,5
+20978,598057,32,Right-hand bat,Right-arm fast-medium,Player,5
+20979,598057,39,Right-hand bat,Right-arm medium,Player,5
+20980,598057,77,Right-hand bat,Right-arm fast-medium,Player,5
+20981,598057,85,Right-hand bat,Right-arm medium,Player,5
+20982,598057,104,Right-hand bat,Right-arm offbreak,Player,5
+20983,598057,277,Left-hand bat,N/A,Keeper,5
+20984,598057,309,Right-hand bat,Right-arm medium,Player,5
+20985,598057,310,Right-hand bat,Left-arm fast-medium,Player,5
+20986,598057,335,Right-hand bat,Right-arm offbreak,Player,5
+20987,598057,351,Right-hand bat,N/A,Player,5
+21054,598061,14,Right-hand bat,Right-arm medium,Player,4
+21055,598061,53,Left-hand bat,Right-arm offbreak,CaptainKeeper,4
+21056,598061,67,Left-hand bat,Legbreak,Player,4
+21057,598061,100,Left-hand bat,Slow left-arm orthodox,Player,4
+21058,598061,139,Left-hand bat,Right-arm offbreak,Player,4
+21059,598061,209,Right-hand bat,Right-arm medium,Player,4
+21060,598061,236,Right-hand bat,Right-arm medium,Player,4
+21061,598061,256,Left-hand bat,Slow left-arm orthodox,Player,4
+21062,598061,320,Left-hand bat,Right-arm offbreak,Player,4
+21063,598061,333,Right-hand bat,Right-arm medium,Player,4
+21064,598061,367,Right-hand bat,Right-arm medium,Player,4
+21065,598061,10,Right-hand bat,Legbreak googly,Captain,11
+21066,598061,17,Left-hand bat,N/A,Keeper,11
+21067,598061,42,Left-hand bat,Right-arm offbreak,Player,11
+21068,598061,84,Right-hand bat,Right-arm fast-medium,Player,11
+21069,598061,94,Right-hand bat,Right-arm fast,Player,11
+21070,598061,136,Right-hand bat,Legbreak,Player,11
+21071,598061,166,Left-hand bat,Legbreak googly,Player,11
+21072,598061,280,Left-hand bat,Right-arm medium-fast,Player,11
+21073,598061,327,Right-hand bat,N/A,Player,11
+21074,598061,340,Right-hand bat,Right-arm offbreak,Player,11
+21075,598061,362,Right-hand bat,Right-arm medium-fast,Player,11
+21098,598063,6,Right-hand bat,Right-arm offbreak,Captain,5
+21099,598063,32,Right-hand bat,Right-arm fast-medium,Player,5
+21100,598063,39,Right-hand bat,Right-arm medium,Player,5
+21101,598063,85,Right-hand bat,Right-arm medium,Player,5
+21102,598063,104,Right-hand bat,Right-arm offbreak,Player,5
+21103,598063,243,Right-hand bat,Right-arm medium,Player,5
+21104,598063,255,Right-hand bat,Right-arm medium,Player,5
+21105,598063,277,Left-hand bat,N/A,Keeper,5
+21106,598063,309,Right-hand bat,Right-arm medium,Player,5
+21107,598063,310,Right-hand bat,Left-arm fast-medium,Player,5
+21108,598063,351,Right-hand bat,N/A,Player,5
+21109,598063,19,Left-hand bat,Right-arm medium,Player,3
+21110,598063,20,Right-hand bat,Right-arm medium,CaptainKeeper,3
+21111,598063,21,Left-hand bat,Right-arm offbreak,Player,3
+21112,598063,23,Right-hand bat,Right-arm offbreak,Player,3
+21113,598063,35,Left-hand bat,Slow left-arm orthodox,Player,3
+21114,598063,71,Right-hand bat,Right-arm medium-fast,Player,3
+21115,598063,185,Right-hand bat,Right-arm offbreak,Player,3
+21116,598063,201,Right-hand bat,Right-arm offbreak,Player,3
+21117,598063,350,Right-hand bat,Right-arm fast-medium,Player,3
+21118,598063,364,Right-hand bat,Right-arm medium,Player,3
+21119,598063,391,Right-hand bat,Right-arm medium-fast,Player,3
+21186,598067,29,Left-hand bat,Left-arm medium-fast,Player,6
+21187,598067,41,Right-hand bat,Right-arm offbreak,Player,6
+21188,598067,73,Right-hand bat,Left-arm medium-fast,Player,6
+21189,598067,177,Right-hand bat,Slow left-arm orthodox,Player,6
+21190,598067,187,Left-hand bat,Legbreak,Captain,6
+21191,598067,192,Right-hand bat,Right-arm offbreak,Player,6
+21192,598067,232,Right-hand bat,Right-arm fast-medium,Player,6
+21193,598067,237,Right-hand bat,Right-arm offbreak,Keeper,6
+21194,598067,262,Right-hand bat,Right-arm offbreak,Player,6
+21195,598067,353,Left-hand bat,N/A,Player,6
+21196,598067,368,Right-hand bat,Right-arm medium,Player,6
+21197,598067,19,Left-hand bat,Right-arm medium,Player,3
+21198,598067,20,Right-hand bat,Right-arm medium,CaptainKeeper,3
+21199,598067,21,Left-hand bat,Right-arm offbreak,Player,3
+21200,598067,23,Right-hand bat,Right-arm offbreak,Player,3
+21201,598067,35,Left-hand bat,Slow left-arm orthodox,Player,3
+21202,598067,71,Right-hand bat,Right-arm medium-fast,Player,3
+21203,598067,109,Left-hand bat,Right-arm medium-fast,Player,3
+21204,598067,185,Right-hand bat,Right-arm offbreak,Player,3
+21205,598067,201,Right-hand bat,Right-arm offbreak,Player,3
+21206,598067,364,Right-hand bat,Right-arm medium,Player,3
+21207,598067,391,Right-hand bat,Right-arm medium-fast,Player,3
+21230,598069,4,Right-hand bat,Right-arm offbreak,Captain,4
+21231,598069,14,Right-hand bat,Right-arm medium,Player,4
+21232,598069,67,Left-hand bat,Legbreak,Player,4
+21233,598069,100,Left-hand bat,Slow left-arm orthodox,Player,4
+21234,598069,120,Right-hand bat,Right-arm medium,Player,4
+21235,598069,209,Right-hand bat,Right-arm medium,Player,4
+21236,598069,236,Right-hand bat,Right-arm medium,Player,4
+21237,598069,320,Left-hand bat,Right-arm offbreak,Player,4
+21238,598069,329,Right-hand bat,Right-arm offbreak,Keeper,4
+21239,598069,333,Right-hand bat,Right-arm medium,Player,4
+21240,598069,454,Right-hand bat,Right-arm medium,Player,4
+21241,598069,8,Right-hand bat,Right-arm medium,Captain,2
+21242,598069,61,Right-hand bat,Left-arm fast-medium,Player,2
+21243,598069,79,Left-hand bat,N/A,Player,2
+21244,598069,81,Right-hand bat,Right-arm medium,Player,2
+21245,598069,83,Left-hand bat,Slow left-arm orthodox,Player,2
+21246,598069,110,Right-hand bat,Right-arm medium,Player,2
+21247,598069,162,Left-hand bat,Right-arm offbreak,Player,2
+21248,598069,163,Right-hand bat,Right-arm fast-medium,Player,2
+21249,598069,203,Right-hand bat,Legbreak,Player,2
+21250,598069,239,Right-hand bat,Legbreak googly,Keeper,2
+21251,598069,349,Left-hand bat,Right-arm fast-medium,Player,2
+21274,598071,14,Right-hand bat,Right-arm medium,Player,4
+21275,598071,53,Left-hand bat,Right-arm offbreak,CaptainKeeper,4
+21276,598071,67,Left-hand bat,Legbreak,Player,4
+21277,598071,100,Left-hand bat,Slow left-arm orthodox,Player,4
+21278,598071,236,Right-hand bat,Right-arm medium,Player,4
+21279,598071,320,Left-hand bat,Right-arm offbreak,Player,4
+21280,598071,321,Right-hand bat,Right-arm fast-medium,Player,4
+21281,598071,329,Right-hand bat,Right-arm offbreak,Player,4
+21282,598071,333,Right-hand bat,Right-arm medium,Player,4
+21283,598071,345,Right-hand bat,Right-arm medium,Player,4
+21284,598071,367,Right-hand bat,Right-arm medium,Player,4
+21285,598071,50,Right-hand bat,Right-arm offbreak,Player,7
+21286,598071,57,Right-hand bat,Right-arm offbreak,Captain,7
+21287,598071,80,Right-hand bat,Right-arm medium,Player,7
+21288,598071,88,Right-hand bat,N/A,Keeper,7
+21289,598071,194,Right-hand bat,Right-arm fast,Player,7
+21290,598071,207,Right-hand bat,N/A,Player,7
+21291,598071,208,Right-hand bat,Right-arm offbreak,Player,7
+21292,598071,221,Right-hand bat,Right-arm medium-fast,Player,7
+21293,598071,305,Right-hand bat,Right-arm offbreak,Player,7
+21294,598071,356,Right-hand bat,Right-arm medium-fast,Player,7
+21295,598071,371,Right-hand bat,Right-arm fast,Player,7
+21406,598077,6,Right-hand bat,Right-arm offbreak,Captain,5
+21407,598077,32,Right-hand bat,Right-arm fast-medium,Player,5
+21408,598077,39,Right-hand bat,Right-arm medium,Player,5
+21409,598077,85,Right-hand bat,Right-arm medium,Player,5
+21410,598077,104,Right-hand bat,Right-arm offbreak,Player,5
+21411,598077,243,Right-hand bat,Right-arm medium,Player,5
+21412,598077,255,Right-hand bat,Right-arm medium,Player,5
+21413,598077,277,Left-hand bat,N/A,Keeper,5
+21414,598077,309,Right-hand bat,Right-arm medium,Player,5
+21415,598077,310,Right-hand bat,Left-arm fast-medium,Player,5
+21416,598077,351,Right-hand bat,N/A,Player,5
+21417,598077,50,Right-hand bat,Right-arm offbreak,Player,7
+21418,598077,57,Right-hand bat,Right-arm offbreak,Captain,7
+21420,598077,131,Left-hand bat,Slow left-arm orthodox,Player,7
+21421,598077,147,Right-hand bat,Right-arm medium,Player,7
+21422,598077,194,Right-hand bat,Right-arm fast,Player,7
+21423,598077,207,Right-hand bat,N/A,Player,7
+21424,598077,208,Right-hand bat,Right-arm offbreak,Player,7
+21425,598077,221,Right-hand bat,Right-arm medium-fast,Player,7
+21426,598077,356,Right-hand bat,Right-arm medium-fast,Player,7
+21427,598077,357,Left-hand bat,Left-arm fast,Player,7
+25388,1082591,27,Left-hand bat,Slow left-arm orthodox,Player,11
+25389,1082591,32,Right-hand bat,Right-arm fast-medium,Captain,2
+25390,1082591,42,Left-hand bat,Right-arm offbreak,Player,11
+25391,1082591,73,Right-hand bat,Left-arm medium-fast,Player,11
+25392,1082591,162,Left-hand bat,Right-arm offbreak,Player,2
+25393,1082591,163,Right-hand bat,Right-arm fast-medium,Player,11
+25394,1082591,183,Right-hand bat,NULL,Keeper,11
+25395,1082591,187,Left-hand bat,Legbreak,Captain,11
+25396,1082591,228,Left-hand bat,Slow left-arm orthodox,Player,11
+25397,1082591,236,Right-hand bat,Right-arm medium,Player,2
+25398,1082591,237,Right-hand bat,Right-arm offbreak,Keeper,2
+25399,1082591,255,Right-hand bat,Right-arm medium,Player,2
+25400,1082591,270,Left-hand bat,Left-arm medium-fast,Player,2
+25401,1082591,299,Right-hand bat,Right-arm medium,Player,11
+25402,1082591,369,Left-hand bat,Right-arm offbreak,Player,2
+25403,1082591,382,Right-hand bat,Legbreak googly,Player,2
+25404,1082591,385,Right-hand bat,Right-arm fast-medium,Player,11
+25405,1082591,394,Right-hand bat,Right-arm offbreak,Player,11
+25406,1082591,417,Left-hand bat,Right-arm offbreak,Player,2
+25407,1082591,470,Right-hand bat,Left-arm medium,Player,2
+25408,1082591,489,Right-hand bat,Legbreak googly,Player,11
+25409,1082591,495,Right-hand bat,Left-arm fast,Player,2
+25432,1082593,2,Right-hand bat,Right-arm medium,Player,13
+25433,1082593,14,Right-hand bat,Right-arm medium,Player,13
+25434,1082593,21,Left-hand bat,Right-arm offbreak,Captain,13
+25435,1082593,31,Right-hand bat,Right-arm offbreak,Player,1
+25436,1082593,40,Left-hand bat,Legbreak,Captain,1
+25437,1082593,46,Right-hand bat,Right-arm medium,Keeper,1
+25438,1082593,67,Left-hand bat,Legbreak,Player,1
+25439,1082593,80,Right-hand bat,Right-arm medium,Player,13
+25440,1082593,88,Right-hand bat,NULL,Keeper,13
+25441,1082593,96,Right-hand bat,Right-arm medium,Player,1
+25442,1082593,120,Right-hand bat,Right-arm medium,Player,13
+25443,1082593,147,Right-hand bat,Right-arm medium,Player,13
+25444,1082593,186,Left-hand bat,Slow left-arm orthodox,Player,13
+25445,1082593,254,Right-hand bat,Slow left-arm orthodox,Player,13
+25446,1082593,308,Right-hand bat,Right-arm offbreak,Player,1
+25447,1082593,315,Left-hand bat,Right-arm offbreak,Player,1
+25448,1082593,336,Right-hand bat,Slow left-arm orthodox,Player,1
+25449,1082593,432,Right-hand bat,Slow left-arm chinaman,Player,13
+25450,1082593,458,Right-hand bat,Left-arm fast-medium,Player,1
+25451,1082593,462,Left-hand bat,Slow left-arm chinaman,Player,1
+25452,1082593,479,Right-hand bat,Right-arm fast-medium,Player,1
+25453,1082593,481,Right-hand bat,NULL,Player,13
+25520,1082597,17,Left-hand bat,NULL,Keeper,7
+25521,1082597,31,Right-hand bat,Right-arm offbreak,Player,1
+25522,1082597,40,Left-hand bat,Legbreak,Captain,1
+25523,1082597,46,Right-hand bat,Right-arm medium,Keeper,1
+25524,1082597,50,Right-hand bat,Right-arm offbreak,Player,7
+25525,1082597,57,Right-hand bat,Right-arm offbreak,Captain,7
+25526,1082597,96,Right-hand bat,Right-arm medium,Player,1
+25527,1082597,194,Right-hand bat,Right-arm fast,Player,7
+25528,1082597,221,Right-hand bat,Right-arm medium-fast,Player,7
+25529,1082597,308,Right-hand bat,Right-arm offbreak,Player,1
+25530,1082597,315,Left-hand bat,Right-arm offbreak,Player,1
+25531,1082597,336,Right-hand bat,Slow left-arm orthodox,Player,1
+25532,1082597,344,Right-hand bat,Right-arm medium,Player,1
+25533,1082597,375,Right-hand bat,Right-arm medium,Player,7
+25534,1082597,400,Right-hand bat,Right-arm medium-fast,Player,7
+25535,1082597,403,Left-hand bat,Left-arm fast-medium,Player,7
+25536,1082597,407,Right-hand bat,NULL,Player,7
+25537,1082597,413,Left-hand bat,Slow left-arm orthodox,Player,7
+25538,1082597,431,Left-hand bat,Right-arm offbreak,Player,7
+25539,1082597,458,Right-hand bat,Left-arm fast-medium,Player,1
+25540,1082597,462,Left-hand bat,Slow left-arm chinaman,Player,1
+25541,1082597,479,Right-hand bat,Right-arm fast-medium,Player,1
+25608,1082601,31,Right-hand bat,Right-arm offbreak,Player,1
+25609,1082601,40,Left-hand bat,Legbreak,Captain,1
+25610,1082601,46,Right-hand bat,Right-arm medium,Keeper,1
+25611,1082601,62,Right-hand bat,NULL,Keeper,4
+25612,1082601,67,Left-hand bat,Legbreak,Player,1
+25613,1082601,84,Right-hand bat,Right-arm fast-medium,Player,4
+25614,1082601,96,Right-hand bat,Right-arm medium,Player,1
+25615,1082601,232,Right-hand bat,Right-arm fast-medium,Player,1
+25616,1082601,296,Right-hand bat,Right-arm fast,Player,4
+25617,1082601,305,Right-hand bat,Right-arm offbreak,Captain,4
+25618,1082601,308,Right-hand bat,Right-arm offbreak,Player,1
+25619,1082601,315,Left-hand bat,Right-arm offbreak,Player,1
+25620,1082601,320,Left-hand bat,Right-arm offbreak,Player,4
+25621,1082601,345,Right-hand bat,Right-arm medium,Player,4
+25622,1082601,364,Right-hand bat,Right-arm medium,Player,4
+25623,1082601,367,Right-hand bat,Right-arm medium,Player,4
+25624,1082601,374,Left-hand bat,Slow left-arm orthodox,Player,4
+25625,1082601,409,Right-hand bat,Right-arm medium,Player,4
+25626,1082601,427,Right-hand bat,Right-arm offbreak,Player,4
+25627,1082601,458,Right-hand bat,Left-arm fast-medium,Player,1
+25628,1082601,478,Right-hand bat,Right-arm fast-medium,Player,1
+25629,1082601,479,Right-hand bat,Right-arm fast-medium,Player,1
+25652,1082603,2,Right-hand bat,Right-arm medium,Player,13
+25653,1082603,14,Right-hand bat,Right-arm medium,Player,13
+25654,1082603,20,Right-hand bat,Right-arm medium,Keeper,12
+25655,1082603,21,Left-hand bat,Right-arm offbreak,Captain,13
+25656,1082603,35,Left-hand bat,Slow left-arm orthodox,Player,13
+25657,1082603,85,Right-hand bat,Right-arm medium,Player,12
+25658,1082603,87,Right-hand bat,Legbreak googly,Player,12
+25659,1082603,88,Right-hand bat,NULL,Keeper,13
+25660,1082603,147,Right-hand bat,Right-arm medium,Player,13
+25661,1082603,186,Left-hand bat,Slow left-arm orthodox,Player,13
+25662,1082603,254,Right-hand bat,Slow left-arm orthodox,Player,13
+25663,1082603,306,Right-hand bat,Legbreak googly,Captain,12
+25664,1082603,314,Left-hand bat,Slow left-arm orthodox,Player,12
+25665,1082603,386,Right-hand bat,Legbreak googly,Player,12
+25666,1082603,406,Right-hand bat,Right-arm medium,Player,12
+25667,1082603,410,Left-hand bat,NULL,Player,13
+25668,1082603,471,Right-handed,Right-arm medium fast,Player,13
+25669,1082603,476,Left-hand bat,Right-arm fast-medium,Player,12
+25670,1082603,477,Right-hand bat,Right-arm fast-medium,Player,13
+25671,1082603,483,Right-hand bat,Right-arm fast,Player,12
+25672,1082603,488,Right-hand bat,Right-arm medium,Player,12
+25673,1082603,490,Right-hand bat,Legbreak googly,Player,12
+25740,1082607,8,Right-hand bat,Right-arm medium,Captain,2
+25741,1082607,20,Right-hand bat,Right-arm medium,Keeper,12
+25742,1082607,32,Right-hand bat,Right-arm fast-medium,Player,2
+25743,1082607,85,Right-hand bat,Right-arm medium,Player,12
+25744,1082607,87,Right-hand bat,Legbreak googly,Player,12
+25745,1082607,110,Right-hand bat,Right-arm medium,Player,2
+25746,1082607,236,Right-hand bat,Right-arm medium,Player,2
+25747,1082607,237,Right-hand bat,Right-arm offbreak,Keeper,2
+25748,1082607,255,Right-hand bat,Right-arm medium,Player,2
+25749,1082607,258,Right-hand bat,Right-arm fast-medium,Player,12
+25750,1082607,270,Left-hand bat,Left-arm medium-fast,Player,2
+25751,1082607,306,Right-hand bat,Legbreak googly,Captain,12
+25752,1082607,322,Left-hand bat,Slow left-arm orthodox,Player,2
+25753,1082607,346,Right-hand bat,Left-arm medium,Player,12
+25754,1082607,382,Right-hand bat,Legbreak googly,Player,2
+25755,1082607,386,Right-hand bat,Legbreak googly,Player,12
+25756,1082607,406,Right-hand bat,Right-arm medium,Player,12
+25757,1082607,452,Right-hand bat,Legbreak,Player,2
+25758,1082607,461,Right-hand bat,Right-arm fast,Player,2
+25759,1082607,476,Left-hand bat,Right-arm fast-medium,Player,12
+25760,1082607,488,Right-hand bat,Right-arm medium,Player,12
+25761,1082607,490,Right-hand bat,Legbreak googly,Player,12
+25784,1082609,27,Left-hand bat,Slow left-arm orthodox,Player,11
+25785,1082609,42,Left-hand bat,Right-arm offbreak,Player,11
+25786,1082609,62,Right-hand bat,NULL,Keeper,4
+25787,1082609,84,Right-hand bat,Right-arm fast-medium,Player,4
+25788,1082609,163,Right-hand bat,Right-arm fast-medium,Player,11
+25789,1082609,183,Right-hand bat,NULL,Keeper,11
+25790,1082609,187,Left-hand bat,Legbreak,Captain,11
+25791,1082609,216,Left-hand bat,Right-arm medium,Player,4
+25792,1082609,299,Right-hand bat,Right-arm medium,Player,11
+25793,1082609,305,Right-hand bat,Right-arm offbreak,Captain,4
+25794,1082609,320,Left-hand bat,Right-arm offbreak,Player,4
+25795,1082609,345,Right-hand bat,Right-arm medium,Player,4
+25796,1082609,364,Right-hand bat,Right-arm medium,Player,4
+25797,1082609,367,Right-hand bat,Right-arm medium,Player,4
+25798,1082609,368,Right-hand bat,Right-arm medium,Player,11
+25799,1082609,374,Left-hand bat,Slow left-arm orthodox,Player,4
+25800,1082609,394,Right-hand bat,Right-arm offbreak,Player,11
+25801,1082609,422,Right-hand bat,Legbreak,Player,4
+25802,1082609,427,Right-hand bat,Right-arm offbreak,Player,4
+25803,1082609,429,Left-hand bat,Left-arm medium,Player,11
+25804,1082609,485,Right-hand bat,Right-arm offbreak,Player,11
+25805,1082609,489,Right-hand bat,Legbreak googly,Player,11
+25828,1082611,15,Right-hand bat,Left-arm fast-medium,Captain,6
+25829,1082611,27,Left-hand bat,Slow left-arm orthodox,Player,11
+25830,1082611,42,Left-hand bat,Right-arm offbreak,Player,11
+25831,1082611,136,Right-hand bat,Legbreak,Player,6
+25832,1082611,163,Right-hand bat,Right-arm fast-medium,Player,11
+25833,1082611,183,Right-hand bat,NULL,Keeper,11
+25834,1082611,187,Left-hand bat,Legbreak,Captain,11
+25835,1082611,191,Right-hand bat,Right-arm fast-medium,Player,6
+25836,1082611,299,Right-hand bat,Right-arm medium,Player,11
+25837,1082611,339,Right-hand bat,Right-arm offbreak,Player,6
+25838,1082611,350,Right-hand bat,Right-arm fast-medium,Player,6
+25839,1082611,351,Right-hand bat,NULL,Player,6
+25840,1082611,368,Right-hand bat,Right-arm medium,Player,11
+25841,1082611,393,Right-hand bat,Legbreak googly,Player,6
+25842,1082611,394,Right-hand bat,Right-arm offbreak,Player,11
+25843,1082611,396,Right-hand bat,Right-arm offbreak,Player,11
+25844,1082611,405,Right-hand bat,Right-arm fast,Player,6
+25845,1082611,420,Left-hand bat,NULL,Keeper,6
+25846,1082611,421,Right-hand bat,NULL,Player,6
+25847,1082611,425,Right-hand bat,Right-arm offbreak,Player,6
+25848,1082611,486,Right-hand bat,Right-arm medium-fast,Player,11
+25849,1082611,489,Right-hand bat,Legbreak googly,Player,11
+25960,1082617,8,Right-hand bat,Right-arm medium,Captain,2
+25961,1082617,31,Right-hand bat,Right-arm offbreak,Player,1
+25962,1082617,40,Left-hand bat,Legbreak,Captain,1
+25963,1082617,46,Right-hand bat,Right-arm medium,Keeper,1
+25964,1082617,96,Right-hand bat,Right-arm medium,Player,1
+25965,1082617,110,Right-hand bat,Right-arm medium,Player,2
+25966,1082617,162,Left-hand bat,Right-arm offbreak,Player,2
+25967,1082617,232,Right-hand bat,Right-arm fast-medium,Player,1
+25968,1082617,236,Right-hand bat,Right-arm medium,Player,2
+25969,1082617,237,Right-hand bat,Right-arm offbreak,Keeper,2
+25970,1082617,255,Right-hand bat,Right-arm medium,Player,2
+25971,1082617,270,Left-hand bat,Left-arm medium-fast,Player,2
+25972,1082617,308,Right-hand bat,Right-arm offbreak,Player,1
+25973,1082617,315,Left-hand bat,Right-arm offbreak,Player,1
+25974,1082617,322,Left-hand bat,Slow left-arm orthodox,Player,2
+25975,1082617,371,Right-hand bat,Right-arm fast,Player,1
+25976,1082617,382,Right-hand bat,Legbreak googly,Player,2
+25977,1082617,452,Right-hand bat,Legbreak,Player,2
+25978,1082617,462,Left-hand bat,Slow left-arm chinaman,Player,1
+25979,1082617,478,Right-hand bat,Right-arm fast-medium,Player,1
+25980,1082617,479,Right-hand bat,Right-arm fast-medium,Player,1
+25981,1082617,495,Right-hand bat,Left-arm fast,Player,2
+26026,1082621,2,Right-hand bat,Right-arm medium,Player,13
+26027,1082621,8,Right-hand bat,Right-arm medium,Captain,2
+26028,1082621,21,Left-hand bat,Right-arm offbreak,Captain,13
+26029,1082621,35,Left-hand bat,Slow left-arm orthodox,Player,13
+26030,1082621,88,Right-hand bat,NULL,Keeper,13
+26031,1082621,110,Right-hand bat,Right-arm medium,Player,2
+26032,1082621,162,Left-hand bat,Right-arm offbreak,Player,2
+26033,1082621,236,Right-hand bat,Right-arm medium,Player,2
+26034,1082621,237,Right-hand bat,Right-arm offbreak,Keeper,2
+26035,1082621,254,Right-hand bat,Slow left-arm orthodox,Player,13
+26036,1082621,270,Left-hand bat,Left-arm medium-fast,Player,2
+26037,1082621,310,Right-hand bat,Left-arm fast-medium,Player,13
+26038,1082621,322,Left-hand bat,Slow left-arm orthodox,Player,2
+26039,1082621,382,Right-hand bat,Legbreak googly,Player,2
+26040,1082621,410,Left-hand bat,NULL,Player,13
+26041,1082621,417,Left-hand bat,Right-arm offbreak,Player,2
+26042,1082621,452,Right-hand bat,Legbreak,Player,2
+26043,1082621,470,Right-hand bat,Left-arm medium,Player,2
+26044,1082621,471,Right-handed,Right-arm medium fast,Player,13
+26045,1082621,472,Right-hand bat,Legbreak,Player,13
+26046,1082621,477,Right-hand bat,Right-arm fast-medium,Player,13
+26047,1082621,487,Right-hand bat,Right-arm medium,Player,13
+26070,1082623,27,Left-hand bat,Slow left-arm orthodox,Player,11
+26071,1082623,42,Left-hand bat,Right-arm offbreak,Player,11
+26072,1082623,62,Right-hand bat,NULL,Keeper,4
+26073,1082623,73,Right-hand bat,Left-arm medium-fast,Player,11
+26074,1082623,84,Right-hand bat,Right-arm fast-medium,Player,4
+26075,1082623,100,Left-hand bat,Slow left-arm orthodox,Player,4
+26076,1082623,163,Right-hand bat,Right-arm fast-medium,Player,11
+26077,1082623,183,Right-hand bat,NULL,Keeper,11
+26078,1082623,187,Left-hand bat,Legbreak,Captain,11
+26079,1082623,216,Left-hand bat,Right-arm medium,Player,4
+26080,1082623,299,Right-hand bat,Right-arm medium,Player,11
+26081,1082623,305,Right-hand bat,Right-arm offbreak,Captain,4
+26082,1082623,345,Right-hand bat,Right-arm medium,Player,4
+26083,1082623,364,Right-hand bat,Right-arm medium,Player,4
+26084,1082623,368,Right-hand bat,Right-arm medium,Player,11
+26085,1082623,374,Left-hand bat,Slow left-arm orthodox,Player,4
+26086,1082623,394,Right-hand bat,Right-arm offbreak,Player,11
+26087,1082623,395,Right-hand bat,Right-arm medium,Player,4
+26088,1082623,396,Right-hand bat,Right-arm offbreak,Player,11
+26089,1082623,415,Right-hand bat,Right-arm offbreak,Player,4
+26090,1082623,422,Right-hand bat,Legbreak,Player,4
+26091,1082623,489,Right-hand bat,Legbreak googly,Player,11
+26202,1082629,2,Right-hand bat,Right-arm medium,Player,13
+26203,1082629,20,Right-hand bat,Right-arm medium,Keeper,12
+26204,1082629,21,Left-hand bat,Right-arm offbreak,Captain,13
+26205,1082629,35,Left-hand bat,Slow left-arm orthodox,Player,13
+26206,1082629,85,Right-hand bat,Right-arm medium,Player,12
+26207,1082629,87,Right-hand bat,Legbreak googly,Player,12
+26208,1082629,88,Right-hand bat,NULL,Keeper,13
+26209,1082629,116,Right-hand bat,Left-arm medium,Player,13
+26210,1082629,147,Right-hand bat,Right-arm medium,Player,13
+26211,1082629,254,Right-hand bat,Slow left-arm orthodox,Player,13
+26212,1082629,258,Right-hand bat,Right-arm fast-medium,Player,12
+26213,1082629,306,Right-hand bat,Legbreak googly,Captain,12
+26214,1082629,310,Right-hand bat,Left-arm fast-medium,Player,13
+26215,1082629,346,Right-hand bat,Left-arm medium,Player,12
+26216,1082629,386,Right-hand bat,Legbreak googly,Player,12
+26217,1082629,406,Right-hand bat,Right-arm medium,Player,12
+26218,1082629,410,Left-hand bat,NULL,Player,13
+26219,1082629,472,Right-hand bat,Legbreak,Player,13
+26220,1082629,476,Left-hand bat,Right-arm fast-medium,Player,12
+26221,1082629,477,Right-hand bat,Right-arm fast-medium,Player,13
+26222,1082629,488,Right-hand bat,Right-arm medium,Player,12
+26223,1082629,497,Left-hand bat,Right-arm offbreak,Player,12
+26246,1082631,20,Right-hand bat,Right-arm medium,Keeper,12
+26247,1082631,31,Right-hand bat,Right-arm offbreak,Player,1
+26248,1082631,40,Left-hand bat,Legbreak,Captain,1
+26249,1082631,85,Right-hand bat,Right-arm medium,Player,12
+26250,1082631,87,Right-hand bat,Legbreak googly,Player,12
+26251,1082631,96,Right-hand bat,Right-arm medium,Player,1
+26252,1082631,232,Right-hand bat,Right-arm fast-medium,Player,1
+26253,1082631,258,Right-hand bat,Right-arm fast-medium,Player,12
+26254,1082631,306,Right-hand bat,Legbreak googly,Captain,12
+26255,1082631,308,Right-hand bat,Right-arm offbreak,Player,1
+26256,1082631,315,Left-hand bat,Right-arm offbreak,Player,1
+26257,1082631,346,Right-hand bat,Left-arm medium,Player,12
+26258,1082631,371,Right-hand bat,Right-arm fast,Player,1
+26259,1082631,386,Right-hand bat,Legbreak googly,Player,12
+26260,1082631,406,Right-hand bat,Right-arm medium,Player,12
+26261,1082631,462,Left-hand bat,Slow left-arm chinaman,Player,1
+26262,1082631,476,Left-hand bat,Right-arm fast-medium,Player,12
+26263,1082631,478,Right-hand bat,Right-arm fast-medium,Player,1
+26264,1082631,479,Right-hand bat,Right-arm fast-medium,Player,1
+26265,1082631,488,Right-hand bat,Right-arm medium,Player,12
+26266,1082631,491,Right-hand bat,NULL,Keeper,1
+26267,1082631,497,Left-hand bat,Right-arm offbreak,Player,12
+26290,1082633,8,Right-hand bat,Right-arm medium,Captain,2
+26291,1082633,32,Right-hand bat,Right-arm fast-medium,Player,2
+26292,1082633,62,Right-hand bat,NULL,Keeper,4
+26293,1082633,100,Left-hand bat,Slow left-arm orthodox,Player,4
+26294,1082633,110,Right-hand bat,Right-arm medium,Player,2
+26295,1082633,162,Left-hand bat,Right-arm offbreak,Player,2
+26296,1082633,236,Right-hand bat,Right-arm medium,Player,2
+26297,1082633,237,Right-hand bat,Right-arm offbreak,Keeper,2
+26298,1082633,270,Left-hand bat,Left-arm medium-fast,Player,2
+26299,1082633,296,Right-hand bat,Right-arm fast,Player,4
+26300,1082633,305,Right-hand bat,Right-arm offbreak,Captain,4
+26301,1082633,322,Left-hand bat,Slow left-arm orthodox,Player,2
+26302,1082633,345,Right-hand bat,Right-arm medium,Player,4
+26303,1082633,364,Right-hand bat,Right-arm medium,Player,4
+26304,1082633,367,Right-hand bat,Right-arm medium,Player,4
+26305,1082633,374,Left-hand bat,Slow left-arm orthodox,Player,4
+26306,1082633,382,Right-hand bat,Legbreak googly,Player,2
+26307,1082633,415,Right-hand bat,Right-arm offbreak,Player,4
+26308,1082633,427,Right-hand bat,Right-arm offbreak,Player,4
+26309,1082633,452,Right-hand bat,Legbreak,Player,2
+26310,1082633,470,Right-hand bat,Left-arm medium,Player,2
+26311,1082633,493,Left-hand bat,Left-arm medium,Player,4
+26378,1082637,21,Left-hand bat,Right-arm offbreak,Captain,13
+26379,1082637,35,Left-hand bat,Slow left-arm orthodox,Player,13
+26380,1082637,62,Right-hand bat,NULL,Keeper,4
+26381,1082637,80,Right-hand bat,Right-arm medium,Player,13
+26382,1082637,88,Right-hand bat,NULL,Keeper,13
+26383,1082637,100,Left-hand bat,Slow left-arm orthodox,Player,4
+26384,1082637,116,Right-hand bat,Left-arm medium,Player,13
+26385,1082637,147,Right-hand bat,Right-arm medium,Player,13
+26386,1082637,254,Right-hand bat,Slow left-arm orthodox,Player,13
+26387,1082637,296,Right-hand bat,Right-arm fast,Player,4
+26388,1082637,305,Right-hand bat,Right-arm offbreak,Captain,4
+26389,1082637,310,Right-hand bat,Left-arm fast-medium,Player,13
+26390,1082637,329,Right-hand bat,Right-arm offbreak,Player,4
+26391,1082637,364,Right-hand bat,Right-arm medium,Player,4
+26392,1082637,367,Right-hand bat,Right-arm medium,Player,4
+26393,1082637,374,Left-hand bat,Slow left-arm orthodox,Player,4
+26394,1082637,410,Left-hand bat,NULL,Player,13
+26395,1082637,415,Right-hand bat,Right-arm offbreak,Player,4
+26396,1082637,427,Right-hand bat,Right-arm offbreak,Player,4
+26397,1082637,472,Right-hand bat,Legbreak,Player,13
+26398,1082637,477,Right-hand bat,Right-arm fast-medium,Player,13
+26399,1082637,493,Left-hand bat,Left-arm medium,Player,4
+26422,1082639,31,Right-hand bat,Right-arm offbreak,Player,1
+26423,1082639,40,Left-hand bat,Legbreak,Captain,1
+26424,1082639,46,Right-hand bat,Right-arm medium,Keeper,1
+26425,1082639,62,Right-hand bat,NULL,Keeper,4
+26426,1082639,96,Right-hand bat,Right-arm medium,Player,1
+26427,1082639,100,Left-hand bat,Slow left-arm orthodox,Player,4
+26428,1082639,232,Right-hand bat,Right-arm fast-medium,Player,1
+26429,1082639,305,Right-hand bat,Right-arm offbreak,Captain,4
+26430,1082639,315,Left-hand bat,Right-arm offbreak,Player,1
+26431,1082639,336,Right-hand bat,Slow left-arm orthodox,Player,1
+26432,1082639,344,Right-hand bat,Right-arm medium,Player,1
+26433,1082639,345,Right-hand bat,Right-arm medium,Player,4
+26434,1082639,364,Right-hand bat,Right-arm medium,Player,4
+26435,1082639,367,Right-hand bat,Right-arm medium,Player,4
+26436,1082639,374,Left-hand bat,Slow left-arm orthodox,Player,4
+26437,1082639,390,Left-hand bat,Legbreak,Player,4
+26438,1082639,415,Right-hand bat,Right-arm offbreak,Player,4
+26439,1082639,424,Right-hand bat,Slow left-arm orthodox,Player,4
+26440,1082639,462,Left-hand bat,Slow left-arm chinaman,Player,1
+26441,1082639,478,Right-hand bat,Right-arm fast-medium,Player,1
+26442,1082639,479,Right-hand bat,Right-arm fast-medium,Player,1
+26443,1082639,484,Right-hand bat,Right-arm fast-medium,Player,4
+26510,1082643,14,Right-hand bat,Right-arm medium,Player,13
+26511,1082643,21,Left-hand bat,Right-arm offbreak,Captain,13
+26512,1082643,35,Left-hand bat,Slow left-arm orthodox,Player,13
+26513,1082643,42,Left-hand bat,Right-arm offbreak,Player,11
+26514,1082643,88,Right-hand bat,NULL,Keeper,13
+26515,1082643,116,Right-hand bat,Left-arm medium,Player,13
+26516,1082643,126,Right-hand bat,Right-arm medium-fast,Player,13
+26517,1082643,147,Right-hand bat,Right-arm medium,Player,13
+26518,1082643,163,Right-hand bat,Right-arm fast-medium,Player,11
+26519,1082643,183,Right-hand bat,NULL,Keeper,11
+26520,1082643,187,Left-hand bat,Legbreak,Captain,11
+26521,1082643,254,Right-hand bat,Slow left-arm orthodox,Player,13
+26522,1082643,299,Right-hand bat,Right-arm medium,Player,11
+26523,1082643,310,Right-hand bat,Left-arm fast-medium,Player,13
+26524,1082643,368,Right-hand bat,Right-arm medium,Player,11
+26525,1082643,394,Right-hand bat,Right-arm offbreak,Player,11
+26526,1082643,410,Left-hand bat,NULL,Player,13
+26527,1082643,455,Right-hand bat,Right-arm medium,Player,11
+26528,1082643,472,Right-hand bat,Legbreak,Player,13
+26529,1082643,485,Right-hand bat,Right-arm offbreak,Player,11
+26530,1082643,486,Right-hand bat,Right-arm medium-fast,Player,11
+26531,1082643,489,Right-hand bat,Legbreak googly,Player,11
+26598,1082647,17,Left-hand bat,NULL,Keeper,7
+26599,1082647,20,Right-hand bat,Right-arm medium,Keeper,12
+26600,1082647,57,Right-hand bat,Right-arm offbreak,Captain,7
+26601,1082647,85,Right-hand bat,Right-arm medium,Player,12
+26602,1082647,87,Right-hand bat,Legbreak googly,Player,12
+26603,1082647,166,Left-hand bat,Legbreak googly,Player,7
+26604,1082647,194,Right-hand bat,Right-arm fast,Player,7
+26605,1082647,208,Right-hand bat,Right-arm offbreak,Player,7
+26606,1082647,221,Right-hand bat,Right-arm medium-fast,Player,7
+26607,1082647,258,Right-hand bat,Right-arm fast-medium,Player,12
+26608,1082647,306,Right-hand bat,Legbreak googly,Captain,12
+26609,1082647,346,Right-hand bat,Left-arm medium,Player,12
+26610,1082647,375,Right-hand bat,Right-arm medium,Player,7
+26611,1082647,383,Right-hand bat,Right-arm medium-fast,Player,7
+26612,1082647,400,Right-hand bat,Right-arm medium-fast,Player,7
+26613,1082647,403,Left-hand bat,Left-arm fast-medium,Player,7
+26614,1082647,406,Right-hand bat,Right-arm medium,Player,12
+26615,1082647,413,Left-hand bat,Slow left-arm orthodox,Player,7
+26616,1082647,430,Right-hand bat,Legbreak googly,Player,12
+26617,1082647,483,Right-hand bat,Right-arm fast,Player,12
+26618,1082647,488,Right-hand bat,Right-arm medium,Player,12
+26619,1082647,497,Left-hand bat,Right-arm offbreak,Player,12
+26642,1082649,17,Left-hand bat,NULL,Keeper,7
+26643,1082649,40,Left-hand bat,Legbreak,Captain,1
+26644,1082649,46,Right-hand bat,Right-arm medium,Keeper,1
+26645,1082649,57,Right-hand bat,Right-arm offbreak,Captain,7
+26646,1082649,67,Left-hand bat,Legbreak,Player,1
+26647,1082649,166,Left-hand bat,Legbreak googly,Player,7
+26648,1082649,194,Right-hand bat,Right-arm fast,Player,7
+26649,1082649,208,Right-hand bat,Right-arm offbreak,Player,7
+26650,1082649,221,Right-hand bat,Right-arm medium-fast,Player,7
+26651,1082649,232,Right-hand bat,Right-arm fast-medium,Player,1
+26652,1082649,257,Right-hand bat,Legbreak googly,Player,1
+26653,1082649,308,Right-hand bat,Right-arm offbreak,Player,1
+26654,1082649,315,Left-hand bat,Right-arm offbreak,Player,1
+26655,1082649,336,Right-hand bat,Slow left-arm orthodox,Player,1
+26656,1082649,344,Right-hand bat,Right-arm medium,Player,1
+26657,1082649,357,Left-hand bat,Left-arm fast,Player,7
+26658,1082649,371,Right-hand bat,Right-arm fast,Player,1
+26659,1082649,375,Right-hand bat,Right-arm medium,Player,7
+26660,1082649,383,Right-hand bat,Right-arm medium-fast,Player,7
+26661,1082649,400,Right-hand bat,Right-arm medium-fast,Player,7
+26662,1082649,413,Left-hand bat,Slow left-arm orthodox,Player,7
+26663,1082649,478,Right-hand bat,Right-arm fast-medium,Player,1

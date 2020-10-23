@@ -20,7 +20,8 @@ try:
     results = cur.fetchall()
 
     for r in results:
-        print("{},{}".format(r[0], r[1]/r[2])) # "Hack"
+        if r[2] != 0:
+            print("{},{}".format(r[0], r[1]/r[2])) # "Hack"
 
     cur.close()
 

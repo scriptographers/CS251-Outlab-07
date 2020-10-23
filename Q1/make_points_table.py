@@ -2,7 +2,7 @@ import csv
 import sqlite3 as sq
 
 DB_NAME = "ipl.db"
-FILE_PATH   = "../Resources/Task1/match.csv"
+FILE_PATH   = "match.csv"
 
 try:
     conn = sq.connect(DB_NAME)

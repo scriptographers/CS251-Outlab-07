@@ -3,7 +3,7 @@ import sqlite3 as sq
 
 # CONSTANTS (Hardcoded)
 DB_NAME     = "ipl.db"
-BASE_PATH   = "../Resources/Task1/"
+BASE_PATH   = "" # New PS change mentions this
 TABLE_NAMES = ["TEAM", "MATCH", "PLAYER", "PLAYER_MATCH", "BALL_BY_BALL"]
 CSV_PATHS   = [(BASE_PATH + tn.lower() + ".csv") for tn in TABLE_NAMES]
 N_TABLES    = len(TABLE_NAMES)
