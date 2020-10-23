@@ -20,7 +20,7 @@ elif op == "3":  # MATCH
 elif op == "4":  # PLAYER_MATCH
     ADD_DATA = "INSERT INTO PLAYER_MATCH (playermatch_key, match_id, player_id, batting_hand, bowling_skill, role_desc, team_id) VALUES (?, ?, ?, ?, ?, ?, ?)"
     cur.execute(ADD_DATA, sys.argv[2:9])
-else:  # BALL_BY_BALL
+elif op == '5':  # BALL_BY_BALL
     ADD_DATA = "INSERT INTO BALL_BY_BALL (match_id, innings_no, over_id, ball_id, striker_batting_position, runs_scored, extra_runs, out_type, striker, non_striker, bowler) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
     cur.execute(ADD_DATA, sys.argv[2:13])
 
