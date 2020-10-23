@@ -13,9 +13,9 @@ try:
         FROM BALL_BY_BALL
         INNER JOIN PLAYER ON BALL_BY_BALL.striker = PLAYER.player_id
         GROUP BY striker
-        ORDER BY (n_sixes*1.0/n_balls) DESC
+        ORDER BY (n_sixes*1.0/n_balls) DESC, player_name ASC
     """
-
+    # SQLite automatically returns NULL when n_balls will be 0
     cur.execute(HITMAN)
     results = cur.fetchall()
 
