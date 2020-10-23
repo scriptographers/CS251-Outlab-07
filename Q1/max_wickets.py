@@ -11,8 +11,8 @@ try:
         FROM BALL_BY_BALL 
         INNER JOIN PLAYER ON BALL_BY_BALL.bowler = PLAYER.player_id
         WHERE out_type != 'Not Applicable'
-        GROUP BY bowler, player_name
-        ORDER BY n_wickets DESC
+        GROUP BY bowler
+        ORDER BY n_wickets DESC, player_name ASC
         LIMIT 20;
     """
     cur.execute(PURPLE_CAP)

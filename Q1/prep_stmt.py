@@ -25,6 +25,7 @@ try:
         cur.execute(ADD_DATA, sys.argv[2:13])
 
     conn.commit()
+    cur.close()
 
 # Error handling
 except sql.Error as error:
