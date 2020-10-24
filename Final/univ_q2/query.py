@@ -13,10 +13,8 @@ cur = conn.cursor()
 
 if (op == "0"):
     cur.execute("SELECT * FROM {} WHERE {} = '".format(table_name, column_name) + query + "'")
-    conn.commit()
 else:
     cur.execute("SELECT * FROM {} WHERE {} = (?)".format(table_name, column_name), (query,))
-    conn.commit()
 res = cur.fetchall()
 for row in res:
     print(','.join(str(x) for x in row))
