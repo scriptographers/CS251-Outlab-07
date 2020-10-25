@@ -80,7 +80,7 @@ try:
     conn.commit()
 
     for i in range(len(DATA)):
-        print("{},{},{},{}".format(i + 1, DATA[i][1], DATA[i][2], DATA[i][3]))
+        print("{},{},{},{}".format(DATA[i][0], DATA[i][1], DATA[i][2], DATA[i][3]))
 
     cur.close()
 
