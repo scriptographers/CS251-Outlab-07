@@ -13,7 +13,7 @@ for x in crt.split(';') + ins.split(';'):
     try:
         cur.execute(x)
         conn.commit()
-    except sql.Error as error:
+    except Exception as error:
         continue
 
 cur.close()
